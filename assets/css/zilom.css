@@ -461,6 +461,7 @@ ul {
     position: relative;
     display: block;
     background: transparent;
+    padding: 10px 0px;
 }
 
 .main-header-one__bottom-inner {
@@ -490,7 +491,7 @@ ul {
     -ms-flex-wrap: wrap;
     flex-direction: row;
     flex-wrap: wrap;
-    padding-top: 13px;
+    /* padding-top: 13px; */
 }
 
 .main-menu__inner .left {
