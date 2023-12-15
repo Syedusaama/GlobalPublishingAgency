@@ -4872,6 +4872,8 @@ ul {
 
 .welcome-one__right-img1 img {
     width: 100%;
+    border-radius: 12px;
+    height: 550px;
 }
 
 .welcome-one__right-img1-inner {
