@@ -88,7 +88,8 @@ section.main-banner-custom h1 {
 }
 
 section.main-banner-custom {
-    background: url(../images/bgbanner.jpg);
+    /* background: url(../images/banner.jpg); */
+    background-image: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)), url(../images/banner.jpg);
     padding: 100px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,12 +181,14 @@ section.main-banner-custom.bg-about h1 {
 }
 
 .domain-search-wrap.border.gray-light-bg {
-    background-color: #4d5fe3;
+    /* background-color: #4d5fe3; */
+    background-image: linear-gradient(to right, #75244a, #75244a), url(../images/books.jpg);
     border-radius: 12px;
     margin-top: 60px;
     padding-top: 25px;
-    background-image: url(../images/books.jpg);
-    box-shadow: 0 1px 20px 0 #ffffff;
+    border: 1px solid #75244a !important;
+    /* background-image: url(../images/books.jpg); */
+    box-shadow: 0 1px 20px 0 #0000002e;
 }
 
 .domain-search-wrap.border.gray-light-bg h4 {
@@ -1283,7 +1286,8 @@ select.cty-code {
     text-align: center;
     border-radius: 65px;
     background-color: #ffffff;
-    color: #ec2527;
+    background-color: #4e1a32;
+    box-shadow: 0px 0px 20px 0px #00000030;
     font-size: 18px;
     border: 0px;
     font-weight: 500;
@@ -1306,7 +1310,8 @@ input[type="submit"] {
     line-height: 42px;
     text-align: center;
     border-radius: 5px;
-    background-color: #f67a3c;
+    background-color: #4e1a32;
+    box-shadow: 0px 0px 20px 0px #00000030;
     color: #ffffff;
     font-size: 18px;
     border: 0px;
