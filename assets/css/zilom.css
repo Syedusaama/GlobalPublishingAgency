@@ -471,7 +471,10 @@ ul {
 
 .main-header-one__bottom-inner .main-menu {
     position: relative;
-    display: block;
+    display: flex;
+    /* align-content: center; */
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 .main-menu {
@@ -1585,14 +1588,16 @@ ul {
     position: relative;
     display: block;
     float: left;
-    padding-right: 45px;
-    padding-bottom: 14px;
+    /* padding-right: 45px;
+    padding-bottom: 14px; */
 }
-
+.main-logo-img{
+    width: 350px;
+}
 .main-header--one__top-logo {
     position: relative;
     display: inline-block;
-    padding-top: 8px;
+    /* padding-top: 8px; */
 }
 
 .main-header--one__top-right {
