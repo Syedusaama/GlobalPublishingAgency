@@ -52,7 +52,7 @@
 }
 
 section.main-banner-custom .contact-btns a {
-    background: #4baecf;
+    background: #621f43;
     padding: 10px 30px;
     color: white;
     font-weight: 700;
@@ -84,7 +84,7 @@ section.main-banner-custom h1 span {
 
 section.main-banner-custom h1 {
     font-weight: 500;
-    color: #4db0d0;
+    color: #75244a;
 }
 
 section.main-banner-custom {
@@ -147,7 +147,7 @@ section.main-banner-custom.bg-about h1 {
 }
 
 .row.content-area-com h5 {
-    color: #4baecf;
+    color: #621f43;
     padding: 20px 0 10px 0;
 }
 
