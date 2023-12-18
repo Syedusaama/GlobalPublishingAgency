@@ -4421,9 +4421,13 @@ ul {
 .footer-widget__about {
     position: relative;
     display: block;
-    margin-top: 3px;
+    margin-top: -22px;
 }
-
+.footer-widget__about-logo p {
+    font-size: 15px;
+    padding: 20px 13px;
+    color: #aeb2c2;
+}
 .footer-widget__about-logo {
     position: relative;
     display: block;
@@ -4461,7 +4465,7 @@ ul {
 }
 
 .footer-widget__courses-list li a:hover {
-    color: var(--thm-primary);
+    color: var(--thm-base);
 }
 
 .footer-widget__links {
@@ -4496,7 +4500,7 @@ ul {
 }
 
 .footer-widget__links li a:hover {
-    color: var(--thm-primary);
+    color: var(--thm-base);
 }
 
 .footer-widget__contact {
@@ -4533,7 +4537,7 @@ ul {
 }
 
 .footer-widget__contact p a:hover {
-    color: var(--thm-primary);
+    color: var(--thm-base);
 }
 
 .footer-widget__contact .phone {
