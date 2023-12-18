@@ -3353,9 +3353,16 @@ ul {
     background: var(--thm-base);
     color: #ffffff;
     text-align: center;
-    width: 24%;
+    width: 38%;
 }
-
+.registration-one__left-transform-box-icon:hover{
+    background: var(--thm-black);
+    transition-delay: .1s;
+    transition-timing-function: ease-in-out;
+    transition-duration: .5s;
+    opacity: 1;
+    cursor: pointer;
+}
 .registration-one__left-transform-box-icon span::before {
     font-size: 50px;
     line-height: 105px;

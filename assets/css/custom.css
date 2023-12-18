@@ -287,12 +287,14 @@ section.main-banner-custom.bg-about h1 {
 }
 
 .accordion {
-    background-color: #eee;
-    color: #444;
+    background-color: #75244a;
+    color: #fff;
     cursor: pointer;
-    padding: 18px;
+    padding: 15px;
     width: 100%;
     border: none;
+    border-radius: 6px;
+    margin-bottom: 5px;
     text-align: left;
     outline: none;
     font-size: 15px;
@@ -301,12 +303,12 @@ section.main-banner-custom.bg-about h1 {
 
 .faqs-acc .active,
 .accordion:hover {
-    background-color: #ccc;
+    background-color: #4e1635;
 }
 
 .accordion:after {
     content: '\002B';
-    color: #777;
+    color: #fff;
     font-weight: bold;
     float: right;
     margin-left: 5px;
@@ -1328,7 +1330,7 @@ input[type="submit"] {
 
 section.books-portfolio-section {
     padding: 100px 0;
-    background: linear-gradient(182deg, black, black);
+    background: linear-gradient(182deg, #78254c, #4e1635)
 }
 
 .books-portfolio-section img {
