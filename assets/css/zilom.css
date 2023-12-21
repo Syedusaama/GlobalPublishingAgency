@@ -2642,14 +2642,14 @@ ul {
 .page-header__wrapper {
     position: relative;
     display: block;
-    padding-top: 150px;
+    padding-top: 250px;
     z-index: 3;
 }
 
 .page-header__title {
     position: relative;
     display: block;
-    padding-bottom: 97px;
+    padding-bottom: 250px;
     text-align: center;
 }
 
@@ -2660,11 +2660,14 @@ ul {
     font-weight: 700;
     text-transform: capitalize;
 }
-
+.about-padding{
+    padding-bottom: 100px;
+}
 .page-header__menu {
     position: relative;
     display: block;
     float: right;
+    /* padding-top: 200px; */
 }
 
 .page-header__menu-list {

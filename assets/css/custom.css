@@ -133,14 +133,14 @@ section.main-banner-custom.bg-service-paper h1 {
 
 section.main-banner-custom.bg-about {
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)), url(../images/about-us.jpg);
-    padding: 70px 0 170px 0;
+    padding: 0px 0 0px 0;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 section.main-banner-custom.bg-reviews {
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)), url(../images/reviews.jpeg);
-    padding: 70px 0 170px 0;
+    padding: 0px 0 0px 0;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
