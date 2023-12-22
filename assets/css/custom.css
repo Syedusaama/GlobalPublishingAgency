@@ -164,6 +164,17 @@ section.main-banner-custom.bg-reviews {
     flex-wrap: wrap;
     padding: 50px;
 }
+.review-title{
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.review-text{
+    font-size: 16px;
+    line-height: 1.8;
+}
+.review-name{
+    font-size: 18px;
+}
 /* reviews main section */
 
 
