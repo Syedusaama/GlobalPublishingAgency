@@ -145,6 +145,29 @@ section.main-banner-custom.bg-reviews {
     background-size: cover;
     background-position: center center;
 }
+
+/* reviews main section */
+
+.review-sec-page{
+    border: 1px solid #ebebeb;
+    border-radius: 12px;
+    width: 31%;
+    padding: 25px;
+    margin: 10px;
+    /* margin: 0px; */
+    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+.review-body{
+    width: 1300px;
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+/* reviews main section */
+
+
+
 section.main-banner-custom.bg-about h1 {
     padding-top: 0px;
 }
