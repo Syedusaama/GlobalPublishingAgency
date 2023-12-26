@@ -74,17 +74,19 @@ section.main-banner-custom {
 
 section.main-banner-custom h1 {
     font-weight: 500;
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 section.main-banner-custom h1 span {
     color: white;
     font-weight: 800;
+
 }
 
 section.main-banner-custom h1 {
     font-weight: 500;
     color: #75244a;
+    font-size: 50px;
 }
 
 section.main-banner-custom {
