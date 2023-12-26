@@ -121,7 +121,7 @@ section.main-banner-custom.bg-service-ghostwriter h1 {
 }
 
 section.main-banner-custom.bg-service-paper {
-    background: url(../images/paper-bublication-bg.jpg);
+    background: url(../images/inner-banner.png);
     padding: 70px 0 100px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -179,6 +179,12 @@ section.main-banner-custom.bg-reviews {
 /* reviews main section */
 
 /* inner pages css */
+.inner-main-banner{
+    background: url(../images/inner-banner.png);
+    padding: 70px 0 100px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .inner-pages-img img{
     width: 100%;
