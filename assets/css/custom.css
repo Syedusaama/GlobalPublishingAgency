@@ -178,7 +178,35 @@ section.main-banner-custom.bg-reviews {
 }
 /* reviews main section */
 
+/* inner pages css */
 
+.inner-pages-img img{
+    width: 100%;
+    border-radius: 12px;
+}
+.inner-section{
+    padding: 0px;
+}
+.inner-pages-title{
+    font-size: 40px;
+}
+.inner-pages-title-white{
+    font-size: 40px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.inner-pages-paragraph{
+    font-size: 16px;
+    line-height: 1.6;
+}
+.inner-pages-btn{
+    padding-top: 10px;
+}
+.section-title__tagline-white{
+    color: #fff;
+}
+/* inner pages css */
 
 section.main-banner-custom.bg-about h1 {
     padding-top: 0px;
@@ -1371,7 +1399,7 @@ input[type="submit"] {
 } */
 
 section.books-portfolio-section {
-    padding: 100px 0;
+    padding: 80px 0;
     background: linear-gradient(182deg, #78254c, #4e1635)
 }
 
