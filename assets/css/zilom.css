@@ -6678,6 +6678,7 @@ section.features-two .section-title h2 {
 .contact-page__right {
     position: relative;
     display: block;
+    padding-top: 50px;
 }
 
 
