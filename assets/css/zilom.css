@@ -1326,7 +1326,7 @@ ul {
     position: relative;
     height: 100%;
     overflow-y: auto;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 30px;
     padding-left: 15px;
     padding-right: 15px;
@@ -1345,7 +1345,7 @@ ul {
 
 .mobile-nav__close {
     position: absolute;
-    top: 20px;
+    top: 27px;
     right: 15px;
     font-size: 18px;
     color: #fff;
