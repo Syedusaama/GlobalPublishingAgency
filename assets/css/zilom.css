@@ -4847,6 +4847,7 @@ ul {
 .welcome-one__left {
     position: relative;
     display: block;
+    /* padding-right: 50px; */
 }
 
 .welcome-one__left-text {
@@ -5805,6 +5806,7 @@ section.features-two .section-title h2 {
 .about-two__title-box {
     position: relative;
     display: block;
+    padding-right: 50px;
 }
 
 .about-two__text-box {
