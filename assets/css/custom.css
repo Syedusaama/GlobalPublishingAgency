@@ -1455,7 +1455,7 @@
   
   .books-portfolio-section p {
     color: white;
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
   }
   
   @media screen and (max-width: 767px) {
