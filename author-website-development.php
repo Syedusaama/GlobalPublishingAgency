@@ -4,9 +4,10 @@
 <head>
 <?php include "./components/head.php"?> 
 </head>
+
 <body>
     <!-- /.preloader -->
-<?php include "./components/header.php"?>
+    <?php include "./components/header.php"?>
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content">
             </div>
@@ -15,8 +16,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
-                <h1> <span> Navigating Amazon's literary landscape: publish your masterpiece with confidence. </span></h1>
-                <p> Explore your publishing possibilities and craft your book’s success on Amazon. </p>
+                <h1> <span> Connect, engage, thrive — transform your writing persona online </span></h1>
+                <p> Showcase your literary identity with our author website solutions and discover the power of a professionally designed author website. </p>
                 <img src="assets/images/banner-logo.png" alt="">
                 <div class="contact-btns">
                     <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
@@ -36,9 +37,9 @@
                 <div class="welcome-one__left">
                     <div class="inner-section">
                         <span class="section-title__tagline">Let us publish your Paper</span>
-                        <h2 class="inner-pages-title">Discover the Amazon Publishing Advantage.</h2>
+                        <h2 class="inner-pages-title">From pen to pixel: showcase your authorial brilliance!</h2>
                     </div>
-                    <p class="inner-pages-paragraph">At Global Publishing Services, we empower authors to realize their publishing dreams on the world's largest online marketplace. We leverage Amazon's vast platform to elevate your book, providing a seamless and impactful journey from manuscript to marketplace. Our services help you benefit from Amazon’s user-friendly platform for authors, making it easy to publish and manage your books independently. Leverage our expertise to implement proven strategies, maximizing your book's potential to achieve bestseller status on Amazon.
+                    <p class="inner-pages-paragraph">At Global Publishing Agency, we seamlessly blend creativity, functionality, and personalized design to improve your online presence as an author. We understand that your journey extends beyond the pages of your book, and your digital footprint deserves to be as exceptional as your writing. We don't just design websites; we create digital spaces where your words come to life, connecting you with readers around the world. Your story deserves a platform as extraordinary as your writing.
                     </p>
 
                     <div class="inner-pages-btn">
@@ -57,6 +58,9 @@
                             <img src="assets/images/researcher2.jpg" alt="">
                         </div>
                     </div>
+                    <!-- <div class="welcome-one__right-img2 wow zoomIn animated" data-wow-delay="100ms" data-wow-duration="3500ms" style="visibility: visible; animation-duration: 3500ms; animation-delay: 100ms; animation-name: zoomIn;">
+                        <img src="assets/images/resources/boook-3.png" alt="">
+                    </div> -->
                 </div>
             </div>
             <!--End Welcome One Right-->
@@ -68,7 +72,7 @@
 <section class="features-two bg-paper-pub">
     <div class="inner-section text-center">
         <span class="section-title__tagline">We Have Experts For All</span>
-        <h2 class="inner-pages-title-white">Our Amazon Publishing Process: From Manuscript to Marketplace</h2>
+        <h2 class="inner-pages-title-white">Our process: from concept to clicks</h2>
     </div>
     <div class="container">
         <div class="row justify-content-center ">
@@ -79,9 +83,9 @@
                         <span class="icon-empowerment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Manuscript evaluation</a></h4>
+                        <h4><a href="#!">Consultation</a></h4>
                         <p>
-                            Our dedicated team conducts a meticulous examination of your manuscript, going beyond surface corrections. We identify inherent strengths and pinpoint areas for enhancement, providing valuable insights to elevate the overall quality of your work.</p>
+                            We initiate the process with a thorough consultation to understand your vision, goals, and the unique elements that define your authorial identity. This conversation sets the stage for a website that truly reflects your literary journey.</p>
                             <br><br>
                     </div>
                 </div>
@@ -95,9 +99,9 @@
                         <span class="icon-human-resources-1"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Customized publishing plan</a></h4>
+                        <h4><a href="#!">Design conceptualization</a></h4>
                         <p>
-                            Crafted with precision, our customized publishing plan is designed to align with your book's genre and target audience. We outline strategic approaches for optimal visibility and market positioning on Amazon.</p>
+                            Our skilled design team takes the insights gathered during the consultation to create a conceptual design for your website. This includes layout, color schemes, typography, and other visual elements. Your feedback is crucial at this stage.</p>
                             <br><br>
                     </div>
                 </div>
@@ -111,9 +115,9 @@
                         <span class="icon-recruitment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Professional editing and design</a></h4>
+                        <h4><a href="#!">Development</a></h4>
                         <p>
-                            Our expert editors refine prose, ensuring clarity and coherence, while our designers create eye-catching covers that captivate Amazon readers. Your book will not only shine in content but also in visual appeal.</p>
+                            Once the design is approved, our development team takes over to bring the conceptualized design to life. We focus on user-friendly functionality, seamless navigation, and responsiveness across various devices. This phase is where the static design transforms into a dynamic and interactive author website.</p>
                     </div>
                 </div>
             </div>
@@ -126,9 +130,9 @@
                         <span class="icon-human-resources-1"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Launch and optimization</a></h4>
+                        <h4><a href="#!">Content integration</a></h4>
                         <p>
-                            Our team takes charge of orchestrating a successful launch on Amazon, strategically planning every detail for maximum impact. We continuously analyze data post-launch, fine-tuning strategies to ensure sustained success in Amazon's dynamic and competitive marketplace.</p>
+                            Beyond aesthetics, we integrate dynamic content elements to keep your audience engaged. This includes sections for book showcases, author blogs, event calendars, and more. Our goal is to create a website that evolves with your literary journey.</p>
                         <br><br>
                     </div>
                 </div>
@@ -142,9 +146,9 @@
                         <span class="icon-recruitment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Premium Editing</a></h4>
+                        <h4><a href="#!">Launch preparation</a></h4>
                         <p>
-                            Our premium editing service is designed to improve the overall quality of your research paper. Our team of experienced editors reviews your paper for grammar, spelling, syntax, and style errors. We also provide feedback on the structure, organization, and clarity of your paper to ensure that it meets the highest academic standards.</p> <br>
+                            As the development phase nears completion, we begin preparations for the website launch. This includes rigorous testing to ensure functionality across browsers and devices, as well as optimization for performance.</p> <br>
                     </div>
                 </div>
             </div>
@@ -157,9 +161,9 @@
                         <span class="icon-recruitment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#1">Pre-submission Peer Review</a></h4>
+                        <h4><a href="#1">Post-launch optimization</a></h4>
                         <p>
-                            Getting feedback from experts in your field can significantly improve the quality and impact of your research paper. Our pre-submission peer review service involves having your paper reviewed by a panel of experts in your research area. They provide feedback on the originality, clarity, and relevance of your research, helping you to improve your paper before submission.</p>
+                            Our commitment doesn't end with the launch. We continue to monitor the website's performance, make necessary optimizations, and provide ongoing support. This ensures that your author's website evolves alongside your writing career.</p>
                     </div>
                 </div>
             </div>
@@ -178,11 +182,11 @@
                     <div class="about-two__title-box">
                         <div class="inner-section">
                             <span class="section-title__tagline">Professional Publishing Services </span>
-                            <h2 class="inner-pages-title">Why choose our Amazon publishing services?
+                            <h2 class="inner-pages-title">Why choose our author website services?
                             </h2>
                         </div>
 
-                        <p class="inner-pages-paragraph">We offer personalized publishing plans tailored to your book's genre and target audience, ensuring a strategic approach to success on Amazon. Our marketing expertise helps create buzz around your book, implementing targeted promotional campaigns for increased visibility and sales. We continuously analyze real-time data to optimize your book's performance, ensuring sustained success in the competitive Amazon marketplace. With Amazon, we empower authors with independent publishing, allowing you to maintain control over your work, pricing, and promotional strategies.</p>
+                        <p class="inner-pages-paragraph">Your author's website is an extension of your literary identity. Our expert designers work closely with you to create a visually stunning and uniquely tailored website that reflects your style, genre, and authorial persona. Our websites are designed with user experience in mind, ensuring seamless navigation for your readers and potential collaborators. From book showcases and author blogs to event calendars, we ensure your website evolves with your literary journey.</p>
                     </div>
 
                     <ul class="list-unstyled">
@@ -224,7 +228,6 @@
         <!-- <h2 class="pulse">EARLY BIRD DISCOUNTS</h2>
         <h5>We are here to help you ace your academics.</h5> -->
     </div>
- 
     <?php include "./components/registrationform.php"?>
 </section>
 <!--About Two End-->
@@ -249,4 +252,5 @@
 <?php include "./components/footer.php"?> 
 <!--End Footer One-->
 </body>
+
 </html>
