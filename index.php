@@ -35,14 +35,6 @@
         <h5>We are here to help you ace your academics.</h5> -->
     </div>
     <?php include "./components/registrationform.php"?> 
-
-</div>                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
 </section>
 
 
