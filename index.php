@@ -13,16 +13,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
-
                 <h1> <span> Transform Your Thoughts<br> into  </span> <b>Timeless Prose</b></h1>
                 <p> Committed to publishing top-tier e-books, our team of seasoned professionals is driven by a profound passion to deliver outstanding services, ensuring authors reach their publishing aspirations with excellence.</p>
                 <img src="assets/images/banner-logo.png" alt="">
-
                 <div class="contact-btns">
                     <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
                 </div>
-
-
             </div>
 
             <div class="col-lg-5 col-lg-5">
@@ -31,28 +27,18 @@
                     <div class="form-banner">
                         <div class="the-form-banner">
     <div class="the-form_head">
-        <!-- <h2 class="pulse">EARLY BIRD DISCOUNTS</h2>
-        <h5>We are here to help you ace your academics.</h5> -->
     </div>
     <?php include "./components/registrationform.php"?> 
 </section>
 
-
 <!--Why Choose One Start-->
 <section>
-
     <div class="row-fluid">
-
         <div class="logos-container-2">
             <img src="assets/images/resources/logos.webp" alt="">
         </div>
-
     </div>
-
 </section>
-
-
-
 
 <!--Features One Start-->
 <section class="features-one">
@@ -552,7 +538,6 @@
     </div>
 </section>
 
-
 <!--Testimonials One Start-->
 <section class="testimonials-one clearfix">
     <div class="container">
@@ -659,15 +644,6 @@
 <?php include "./components/footer.php"?> 
 <!--End Footer One-->
 
-
-
-
-
-
-
-
 </body>
-
-
 
 </html>
