@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <?php include "./components/head.php"?> 
@@ -8,16 +10,13 @@
 <body>
     <!-- /.preloader -->
     <?php include "./components/header.php"?>
-        <div class="stricky-header stricked-menu main-menu">
-            <div class="sticky-header__content">
-            </div>
-        </div>
-<section class="main-banner-custom bg-service-paper">
+    <section class="main-banner-custom bg-service-paper">
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
-                <h1> <span> Crafted for impact, tailored for your narrative journey. </span></h1>
-                <p> Your story deserves a captivating first impression and visual expression in every imaginative detail. </p>
+                <h1> <span> Crafting visual tales for every genre </span></h1>
+                <p> Dive into the artistry of our book illustrations and transform your story into a visual extravaganza.</p>
+            </p>
                 <img src="assets/images/banner-logo.png" alt="">
                 <div class="contact-btns">
                     <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
@@ -37,9 +36,9 @@
                 <div class="welcome-one__left">
                     <div class="inner-section">
                         <span class="section-title__tagline">Let us publish your Paper</span>
-                        <h2 class="inner-pages-title">Your story, our canvas</h2>
+                        <h2 class="inner-pages-title">Every page, a canvas of infinite imagination</h2>
                     </div>
-                    <p class="inner-pages-paragraph">At Global Publishing Agency, we understand that the journey of a book begins with its cover – the visual gateway to your narrative world. Our Book Cover Design Services are a symphony of creativity, craftsmanship, and a deep understanding of your story. Immerse yourself in the artistry of our designs, where every cover is a visual narrative crafted to leave a lasting impression. Our book cover designs are not just templates; they are bespoke creations tailored to reflect the essence and individuality of your narrative. 
+                    <p class="inner-pages-paragraph">At Global Publishing Agency, we believe that every story deserves a visual counterpart that captures the essence of its narrative. Our book illustrations service is designed to breathe life into your words, offering bespoke artistic interpretations that take your storytelling to new heights. Whether you're an author looking to enhance your manuscript or a storyteller seeking a visual narrative, our team of skilled illustrators is here to turn your imagination into captivating art.<br><br>The Global Publishing Agency offers illustrations catering to a diverse range of book genres, encompassing children's books, educational materials, and adult literature. For those seeking a truly unique touch, we also offer the option to commission custom illustrations tailored to your specific vision and preferences.
                     </p>
 
                     <div class="inner-pages-btn">
@@ -69,7 +68,7 @@
 <section class="features-two bg-paper-pub">
     <div class="inner-section text-center">
         <span class="section-title__tagline">We Have Experts For All</span>
-        <h2 class="inner-pages-title-white">Crafting your book's visual blueprint: our process unveiled</h2>
+        <h2 class="inner-pages-title-white">Explore the visual tapestry.</h2>
     </div>
     <div class="container">
         <div class="row justify-content-center ">
@@ -80,9 +79,9 @@
                         <span class="icon-empowerment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Consultation</a></h4>
+                        <h4><a href="#!">Initial consultation</a></h4>
                         <p>
-                            Our journey together begins with a comprehensive consultation, a crucial phase where we immerse ourselves in the essence of your book. We explore its genre, themes, and, most importantly, your vision for the cover. This in-depth understanding lays the foundation for a design that seamlessly aligns with the core of your narrative.</p>
+                            Your illustration journey starts with a comprehensive consultation where we delve into the heart of your narrative. We take the time to understand the themes, characters, and visual style you envision for your book. This initial step lays the foundation for a tailored illustration process, ensuring that every stroke of the brush aligns seamlessly with your creative vision.</p>
                             <br><br>
                     </div>
                 </div>
@@ -96,9 +95,9 @@
                         <span class="icon-human-resources-1"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Concept Development</a></h4>
+                        <h4><a href="#!">Concept development</a></h4>
                         <p>
-                            Your insights guide us as we collectively shape the visual blueprint of your literary masterpiece. With the insights gathered, our team of skilled designers takes the helm to transform your ideas into an eye-catcher of a cover. This stage empowers you to choose the design that portrays your story and aligns with aesthetic preferences.</p>
+                            In our realm of creativity, our skilled illustrators bring your ideas to life through vibrant visual concepts. This phase is an artistic dialogue where we present you with a diverse range of options, each portraying a different facet of your story. Your freedom to choose allows you to align the illustration style with the essence of your narrative and your unique aesthetic preferences.</p>
                             <br><br>
                     </div>
                 </div>
@@ -112,9 +111,9 @@
                         <span class="icon-recruitment"></span>
                     </div>
                     <div class="features-one__single-text">
-                        <h4><a href="#!">Refinement</a></h4>
+                        <h4><a href="#!">Iterative refinement</a></h4>
                         <p>
-                            We work in close partnership with you to refine the chosen design, ensuring that every nuance aligns precisely with your expectations. This iterative process is a testament to our commitment to perfection, guaranteeing a cover that not only looks aesthetically pleasing but, more importantly, feels intimately connected to the essence of your narrative.</p>
+                            Your input is not just valued; it's crucial to the refinement process. We enter an iterative dialogue, working closely with you to refine the chosen illustrations. Every detail is scrutinized, ensuring that the evolving visuals align precisely with your expectations. This collaborative refinement guarantees a final result that not only looks aesthetically pleasing but, more importantly, authentically captures the spirit and emotion of your narrative.</p>
                     </div>
                 </div>
             </div>
@@ -129,7 +128,7 @@
                     <div class="features-one__single-text">
                         <h4><a href="#!">Finalization</a></h4>
                         <p>
-                            As the chosen design undergoes thorough refinement, we move towards the finalization stage. Beyond aesthetics, we ensure that the cover meets and exceeds industry standards for both print and digital formats. The culmination of this process is a cover that captures attention and transforms into a powerful marketing tool.</p>
+                            As the chosen illustrations reach the peak of perfection, our commitment extends beyond aesthetics. We meticulously ensure that they meet industry standards for both print and digital formats. The result is not just a collection of illustrations; it's a visual masterpiece ready to enhance your book's appeal. Beyond this, these illustrations become powerful tools for engagement and marketing, captivating readers and leaving a lasting impact.</p>
                         <br><br>
                     </div>
                 </div>
@@ -179,11 +178,11 @@
                     <div class="about-two__title-box">
                         <div class="inner-section">
                             <span class="section-title__tagline">Professional Publishing Services </span>
-                            <h2 class="inner-pages-title">Why choose our book cover design services?
+                            <h2 class="inner-pages-title">Why choose our book illustration services?
                             </h2>
                         </div>
 
-                        <p class="inner-pages-paragraph">Your book cover design journey with us is a collaborative masterpiece – a fusion of your narrative brilliance and our design expertise. With a keen eye for design trends, a passion for storytelling, and a commitment to excellence, our designers transform concepts into captivating visuals that make your book stand out on the shelves. From genre-specific elements to capturing the emotional tone, our designs ensure that your cover is as captivating as the story it encases</p>
+                        <p class="inner-pages-paragraph">We don't believe in one-size-fits-all. Our illustrators craft bespoke visuals tailored to the unique themes, characters, and settings of your narrative. Each illustration is a unique expression intricately designed to complement your storytelling. From whimsical characters to detailed diagrams, we bring versatility to every illustration, ensuring it harmonizes seamlessly with your book's genre. We engage in a collaborative dialogue, understanding your ideas and preferences. Here at Global Publishing Agency, we craft visual tales that linger in the reader's mind.</p>
                     </div>
 
                     <ul class="list-unstyled">
@@ -201,7 +200,7 @@
                                 <span class="icon-confirmation"></span>
                             </div>
                             <div class="text">
-                                <p>24/7 support and assistance.</p>
+                                <p>24/7 support and assistance</p>
                             </div>
                         </li>
 
@@ -215,7 +214,6 @@
                         </li>
                     </ul>
                 </div>
-
 
                 <div class="col-xl-5 col-lg-5">
                     <div class="domain-search-wrap border gray-light-bg" style="margin: 0;">
