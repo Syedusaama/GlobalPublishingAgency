@@ -33,10 +33,8 @@
             <div class="col-xl-12">
                 <div class="page-header__wrapper clearfix">
                     <div class="col-lg-7 col-md-7 about-padding">
-
                         <h1> <span> About </span>Us</h1>
                         <img src="assets/images/banner-logo.png" alt="">
-        
                         <div class="contact-btns">
                             <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
                         </div>
@@ -52,7 +50,6 @@
         </div>
     </div>
 </section>
-
 
 <!-- <div class="mt-50 mb-100">
     <div class="container">
@@ -70,9 +67,6 @@
             <p>If you have a great idea for a book or manuscript but lack the time or writing skills to bring it to life, our Ghostwriting services can help. Our team of experienced writers specializes in creating high-quality content in various genres, including fiction, non-fiction, and academic writing. We work closely with you to understand your vision and ensure that the final product meets your expectations. Our Ghostwriting services are confidential, and we guarantee that you will retain full ownership of the final product. </p>
 
             <p> <b>Global Publishing Center, we are committed to providing you with top-quality publication services that meet your unique needs. Contact us today to learn more about how we can help you achieve your academic and professional goals.</b> </p>
-
-
-
 
         </div>
 
