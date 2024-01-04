@@ -325,7 +325,6 @@
 </section>
 <!--Counter One End-->
 
-
 <!--Why Choose One Start-->
 <section class=" mb-120 mt-100">
     <div class="container">
@@ -360,8 +359,6 @@
 <section class=" mb-120">
     <div class="container">
         <div class="row">
-
-
             <!--Start Why Choose One Right-->
             <div class="col-xl-6 col-lg-6">
                 <img src="assets/images/resources/book-banner-02.webp" alt="" class="img-fluid" />
@@ -380,19 +377,12 @@
                 </div>
             </div>
             <!--End Why Choose One Left-->
-
-
-
         </div>
     </div>
 </section>
 <!--Why Choose One End-->
 
-
-
-
 <?php include "./components/portfolio.php"?> 
-
 
 <!--Registration One Start-->
 <section class="registration-one jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%">
@@ -455,7 +445,6 @@
 </section>
 <!--Registration One End-->
 
-
 <!--Why Choose One Start-->
 <section class="why-choose-one mb-120">
     <div class="container">
@@ -507,13 +496,10 @@
                 </div>
             </div>
             <!--End Why Choose One Right-->
-
         </div>
     </div>
 </section>
 <!--Why Choose One End-->
-
-
 
 <section class="our-process  pb-150">
     <div class="section-title text-center mb-120">
