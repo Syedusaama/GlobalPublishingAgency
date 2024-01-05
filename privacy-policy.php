@@ -28,7 +28,6 @@
 <div class="mt-50 mb-100">
     <div class="container">
         <div class="row content-area-com">
-
             <h5>About The Policy </h5>
             <p> notice discloses the privacy practices for globalpublishingcenter.com. This privacy notice applies solely to information collected by this website. It will notify you of the following: What personally identifiable information is collected from you through the website, how it is used, and with whom it may be shared.
                 <br>
@@ -61,9 +60,7 @@
             <h5>CONFIDENTIALITY AND OWNERSHIP</h5>
             <p>While many writing services require recognition or sales incentives, our service is 100% confidential. All communication and content developed or reviewed for the purposes of working together will never be disclosed to any other party under any circumstances. </p>
         </div>
-
     </div>
-
 </div>
 
 <!--<div class="floating_btn">-->
