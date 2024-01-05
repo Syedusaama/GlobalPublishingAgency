@@ -15,12 +15,10 @@
             <div class="col-lg-7 col-md-7">
                 <h1> <span> Terms & </span> Conditions </h1>
                 <img src="assets/images/banner-logo.png" alt="">
-
                 <div class="contact-btns">
                     <a href="#!">Chat With Expert</a>
                 </div>
             </div>
-
             <div class="col-lg-5 col-lg-5">
             </div>
         </div>
@@ -78,19 +76,9 @@
             If there is a delay in delivery due to minor technical issues like grammatical errors, typing errors, word count, or missing references, refunds will be given only with mutual agreement, and the company will provide only partial refunds or discounts for future purchases.
             The Global Publishing Center will not be held responsible for any delay caused by the client.
             Refunds will not be provided based on low-quality writing.
-
-
         </div>
-
     </div>
-
 </div>
-
-
-
-
-
-
 
 <!--<div class="floating_btn">-->
 <!--    <a target="_blank" href="https://wa.me/+16164693925/?text=Hello, I need help in my publications">-->
