@@ -13,21 +13,17 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
-
                 <h1> <span> Privacy </span> Policy </h1>
                 <img src="assets/images/banner-logo.png" alt="">
-
                 <div class="contact-btns">
                     <a href="#!">Chat With Expert</a>
                 </div>
             </div>
-
             <div class="col-lg-5 col-lg-5">
             </div>
         </div>
     </div>
 </section>
-
 
 <div class="mt-50 mb-100">
     <div class="container">
