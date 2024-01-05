@@ -79,6 +79,4 @@
 <!--End Footer One-->
 </body>
 
-
-<!-- Mirrored from globalpublishingcenter.com/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Dec 2023 09:03:15 GMT -->
 </html>
