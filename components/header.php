@@ -19,22 +19,22 @@
                                 <li class="dropdown">
                                     <a href="#!">Services <i class="fas fa-angle-down"></i></a>
                                     <ul>
-                                        <li><a href="book-writing-service.html">Book Writing &amp; Publishing</a></li>
-                                        <li><a href="book-editing-proofreading-service.html">Book Editing &amp; Proofreading</a></li>
-                                        <li><a href="ghost-writing-service.html">Ghost Book Writing</a></li>
-                                        <li><a href="audio-book-service.html">Audio Book Service</a></li>
-                                        <li><a href="book-cover-designing.html"> Book Cover Design </a></li>
-                                        <li><a href="book-illustrations-designing.html">  Book Illustrations  </a></li>
-                                        <li><a href="book-publishing-service.html">   Book Publishing   </a></li>
-                                        <li><a href="book-printing-service.html">   Book Printing    </a></li>
-                                        <li><a href="book-marketing-service.html">    Book Marketing     </a></li>
-                                        <li><a href="author-website-development.html">    Author Website     </a></li>
-                                        <li><a href="amazon-publishing-service.html">    Amazon Publishing     </a></li>
+                                        <li><a href="book-writing-service.php">Book Writing &amp; Publishing</a></li>
+                                        <li><a href="book-editing-proofreading-service.php">Book Editing &amp; Proofreading</a></li>
+                                        <li><a href="ghost-writing-service.php">Ghost Book Writing</a></li>
+                                        <li><a href="audio-book-service.php">Audio Book Service</a></li>
+                                        <li><a href="book-cover-designing.php"> Book Cover Design </a></li>
+                                        <li><a href="book-illustrations-designing.php">  Book Illustrations  </a></li>
+                                        <li><a href="book-publishing-service.php">   Book Publishing   </a></li>
+                                        <li><a href="book-printing-service.php">   Book Printing    </a></li>
+                                        <li><a href="book-marketing-service.php">    Book Marketing     </a></li>
+                                        <li><a href="author-website-development.php">    Author Website     </a></li>
+                                        <li><a href="amazon-publishing-service.php">    Amazon Publishing     </a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="reviews.html">Our Reviews</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="reviews.php">Our Reviews</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
                         <div class="right">
