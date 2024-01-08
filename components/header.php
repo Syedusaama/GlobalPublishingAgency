@@ -14,7 +14,7 @@
                         <div class="left">
                             <ul class="main-menu__list">
                                 <li class="current">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                                 <li class="dropdown">
                                     <a href="#!">Services <i class="fas fa-angle-down"></i></a>
