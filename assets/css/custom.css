@@ -158,6 +158,9 @@
   color: #75244a;
   font-size: 50px;
 }
+.privacy-main-sec img {
+  padding: 30px 0px;
+}
 .privacy-main-sec .contact-btns a{
   background: #621f43;
   padding: 10px 30px;
@@ -181,7 +184,10 @@
   color: #75244a;
   font-size: 50px;
 }
-.term-main-sec.contact-btns a{
+.term-main-sec img {
+  padding: 30px 0px;
+}
+.term-main-sec .contact-btns a{
   background: #621f43;
   padding: 10px 30px;
   color: white;
