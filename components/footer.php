@@ -1,6 +1,4 @@
 <footer class="footer-one">
-    <div class="footer-one__bg" style="background-image: url(assets/images/backgrounds/footer-v1-bg.html);">
-    </div><!-- /.footer-one__bg -->
     <div class="footer-one__top">
         <div class="footer-box">
             <div class="row">
