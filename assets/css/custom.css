@@ -125,12 +125,12 @@
   }
   
   section.main-banner-custom.bg-service-paper {
-    background: linear-gradient(to right,#89325a, #621f44),
-    url(../images/inner-banner.jpg);
+    background: linear-gradient(to right,#000000c7, #4c1534db), url(../images/inner-banner.jpg);
     /* background: url(../images/inner-banner.png); */
     padding: 70px 0 100px 0;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
   }
   
   section.main-banner-custom.bg-service-paper h1 {
