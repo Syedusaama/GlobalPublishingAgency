@@ -4401,10 +4401,13 @@
   .footer-one__top {
     position: relative;
     display: block;
-    padding: 114px 0px 108px;
+    padding: 110px 0px 110px;
     border-bottom: 1px solid #303138;
   }
-  
+  .footer-box{
+    max-width: 1300px;
+    margin: 0 auto;
+  }
   .footer-widget__column {
     position: relative;
     display: block;

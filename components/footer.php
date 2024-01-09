@@ -2,7 +2,7 @@
     <div class="footer-one__bg" style="background-image: url(assets/images/backgrounds/footer-v1-bg.html);">
     </div><!-- /.footer-one__bg -->
     <div class="footer-one__top">
-        <div class="container">
+        <div class="footer-box">
             <div class="row">
                 <!--Start Footer Widget Column-->
                 <div class="col-xl-4 col-lg-4 col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
