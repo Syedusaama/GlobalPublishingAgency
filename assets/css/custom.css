@@ -143,7 +143,7 @@
     background-size: cover;
     background-position: center center;
   }
-
+/* privacy policy page */
   .privacy-main-sec{
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
     url(../images/about-us.jpg);
@@ -152,6 +152,21 @@
   background-size: cover;
   background-position: center center;
   }
+.privacy-main-sec h1{
+    font-weight: 500;
+    color: #75244a;
+    font-size: 50px;
+}
+.privacy-main-sec .contact-btns a{
+  background: #621f43;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+/* privacy policy page */
+
   .term-main-sec{
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
     url(../images/about-us.jpg);
