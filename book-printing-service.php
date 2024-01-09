@@ -56,7 +56,7 @@
                     <div class="shape1 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt=""></div>
                     <div class="wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInRight;">
                         <div class="inner-pages-img">
-                            <img src="assets/inner/book-printing.webp" alt="">
+                            <img src="assets/images/inner/book-printing.webp" alt="">
                         </div>
                     </div>
                 </div>
