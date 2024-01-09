@@ -143,6 +143,23 @@
     background-size: cover;
     background-position: center center;
   }
+
+  .privacy-main-sec{
+    background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
+    url(../images/about-us.jpg);
+  padding: 0px 0 0px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  }
+  .term-main-sec{
+    background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
+    url(../images/about-us.jpg);
+  padding: 0px 0 0px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  }
   section.main-banner-custom.bg-reviews {
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
       url(../images/reviews.jpeg);

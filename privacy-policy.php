@@ -9,7 +9,7 @@
 <body>
     <!-- /.preloader -->
     <?php include "./components/header.php"?> 
-<section class="main-banner-custom bg-about">
+<section class="privacy-main-sec">
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
