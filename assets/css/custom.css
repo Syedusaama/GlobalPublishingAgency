@@ -146,7 +146,7 @@
 /* privacy policy page */
   .privacy-main-sec{
   background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-  url(../images/about-us.jpg);
+  url(../images/privacy-policy.jpg);
   padding: 120px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -170,7 +170,7 @@
 
 .term-main-sec{
   background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-  url(../images/about-us.jpg);
+  url(../images/term-condition.jpg);
   padding: 120px;
   background-repeat: no-repeat;
   background-size: cover;
