@@ -64,7 +64,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-human-resources-1"></span>
                     </div>
@@ -78,7 +78,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-recruitment"></span>
                     </div>
@@ -94,7 +94,7 @@
         <div class="row justify-content-center ">
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-empowerment"></span>
                     </div>
@@ -108,7 +108,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-human-resources-1"></span>
                     </div>
@@ -122,7 +122,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-recruitment"></span>
                     </div>
@@ -138,7 +138,7 @@
         <div class="row justify-content-center ">
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-empowerment"></span>
                     </div>
@@ -152,7 +152,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-human-resources-1"></span>
                     </div>
@@ -166,7 +166,7 @@
 
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-recruitment"></span>
                     </div>
@@ -181,7 +181,7 @@
         <div class="row justify-content-center ">
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-empowerment"></span>
                     </div>
@@ -328,7 +328,7 @@
 <!--Why Choose One Start-->
 <section class=" mb-120 mt-100">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <!--Start Why Choose One Left-->
             <div class="col-xl-6 col-lg-6">
                 <div class="why-choose-one__left">
@@ -358,7 +358,7 @@
 <!--Why Choose One Start-->
 <section class=" mb-120">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <!--Start Why Choose One Right-->
             <div class="col-xl-6 col-lg-6">
                 <img src="assets/images/resources/book-banner-02.webp" alt="" class="img-fluid" />
