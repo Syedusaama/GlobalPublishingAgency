@@ -75,7 +75,7 @@
                         <span class="section-title__tagline">Let us publish your Paper</span>
                         <h2 class="inner-pages-title">Elevate your writing with our editing services.</h2>
                     </div>
-                    <p class="inner-pages-paragraph">Your manuscript is not just a collection of sentences; it's your labor of love, and we understand the importance of presenting it flawlessly to the world. At [Your Company Name], we take pride in our meticulous approach to proofreading. Our team of seasoned editors combines a passion for language with an eagle-eyed attention to detail, ensuring that your writing is error-free and polished to perfection.<br><br>A well-proofread manuscript is not just a mark of professionalism; it's your key to making a lasting impression. Whether you're an aspiring author, established writer, or academic, our proofreading services ensure that your words resonate with clarity and impact.
+                    <p class="inner-pages-paragraph">Your manuscript is not just a collection of sentences; it's your labor of love, and we understand the importance of presenting it flawlessly to the world. At Global Publishing Agency, we take pride in our meticulous approach to proofreading. Our team of seasoned editors combines a passion for language with an eagle-eyed attention to detail, ensuring that your writing is error-free and polished to perfection. Whether you're an aspiring author, established writer, or academic, our proofreading services ensure that your words resonate with clarity and impact.
                     </p>
 
                     <div class="inner-pages-btn">

@@ -2754,6 +2754,7 @@
     transition-delay: 0.1s;
     border: 1px solid #ffffff;
     margin-bottom: 30px;
+    min-height: 500px;
   }
   
   .features-one__single:hover {

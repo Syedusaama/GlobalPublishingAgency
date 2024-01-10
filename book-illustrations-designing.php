@@ -112,7 +112,7 @@
                     <div class="features-one__single-text">
                         <h4><a href="#!">Iterative refinement</a></h4>
                         <p>
-                            Your input is not just valued; it's crucial to the refinement process. We enter an iterative dialogue, working closely with you to refine the chosen illustrations. Every detail is scrutinized, ensuring that the evolving visuals align precisely with your expectations. This collaborative refinement guarantees a final result that not only looks aesthetically pleasing but, more importantly, authentically captures the spirit and emotion of your narrative.</p>
+                            Your input is not just valued; it's crucial to the refinement process. We enter an iterative dialogue, working closely with you to refine the chosen illustrations. Every detail is scrutinized, ensuring that the evolving visuals align precisely with your expectations. This collaborative refinement guarantees a final result that looks aesthetically pleasing and authentically captures the emotion of your narrative.</p>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                     <div class="features-one__single-text">
                         <h4><a href="#!">Finalization</a></h4>
                         <p>
-                            As the chosen illustrations reach the peak of perfection, our commitment extends beyond aesthetics. We meticulously ensure that they meet industry standards for both print and digital formats. The result is not just a collection of illustrations; it's a visual masterpiece ready to enhance your book's appeal. Beyond this, these illustrations become powerful tools for engagement and marketing, captivating readers and leaving a lasting impact.</p>
+                            As the chosen illustrations reach the peak of perfection, our commitment extends beyond aesthetics. We meticulously ensure that they meet industry standards for both print and digital formats. The result is not just a collection of illustrations; it's a visual masterpiece ready to enhance your book's appeal. Beyond this, these illustrations become powerful tools for engagement</p>
                         <br><br>
                     </div>
                 </div>
