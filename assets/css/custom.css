@@ -10,7 +10,11 @@
     justify-content: center;
     z-index: 1000;
   }
-  
+  /* feature-box */
+.feature-box{
+  height: 200px;
+}
+/* feature-box */
   @keyframes pulsing {
     to {
       box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
