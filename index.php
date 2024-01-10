@@ -50,7 +50,7 @@
         <div class="row justify-content-center ">
             <!--Start Single Features One-->
             <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="features-one__single">
+                <div class="features-one__single feature-box">
                     <div class="features-one__single-icon">
                         <span class="icon-empowerment"></span>
                     </div>
