@@ -65,7 +65,6 @@
     </div>
 </section>
 
-
 <section class="welcome-one mt-100">
     <div class="container">
         <div class="row">
@@ -86,8 +85,6 @@
             </div>
             <!--End Welcome One Left-->
 
-
-
             <!--Start Welcome One Right-->
             <div class="col-xl-6">
                 <div class="welcome-one__right clearfix">
@@ -97,9 +94,6 @@
                             <img src="assets/images/inner/book-editing-proofreading.webp" alt="">
                         </div>
                     </div>
-                    <!-- <div class="welcome-one__right-img2 wow zoomIn animated" data-wow-delay="100ms" data-wow-duration="3500ms" style="visibility: visible; animation-duration: 3500ms; animation-delay: 100ms; animation-name: zoomIn;">
-                        <img src="assets/images/resources/boook-3.png" alt="">
-                    </div> -->
                 </div>
             </div>
             <!--End Welcome One Right-->
@@ -265,11 +259,8 @@
                         <div class="form-banner">
                             <div class="the-form-banner">
     <div class="the-form_head">
-        <!-- <h2 class="pulse">EARLY BIRD DISCOUNTS</h2>
-        <h5>We are here to help you ace your academics.</h5> -->
     </div>
     <div class="the-form_body">
-
 
         
         <form action="#" method="post">

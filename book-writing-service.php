@@ -221,8 +221,6 @@
                         <div class="form-banner">
                             <div class="the-form-banner">
     <div class="the-form_head">
-        <!-- <h2 class="pulse">EARLY BIRD DISCOUNTS</h2>
-        <h5>We are here to help you ace your academics.</h5> -->
     </div>
     <?php include "./components/registrationform.php"?>
 </section>
