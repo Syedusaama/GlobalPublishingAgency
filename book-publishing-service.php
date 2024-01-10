@@ -36,7 +36,7 @@
                 <div class="welcome-one__left">
                     <div class="inner-section">
                         <span class="section-title__tagline">Let us publish your Paper</span>
-                        <h2 class="inner-pages-title">Beyond Words, Beyond Pages: Seamless Book Publishing</h2>
+                        <h2 class="inner-pages-title">Beyond Words, Beyond Pages: Seamless Book Publishing for Your Masterpiece.</h2>
                     </div>
                     <p class="inner-pages-paragraph">At Global Publishing Agency, we understand that every author's journey is unique, and so is every story. Our book publishing services are designed to guide you through the intricate process of transforming your manuscript into a professionally published book. Discover a seamless and personalized publishing experience where your literary aspirations come to life.<br><br>We provide our clients with a transparent and collaborative process, with clear communication at every stage of the publishing process. Our experts offer thorough support for post-publication activities and further literary endeavors. 
                     </p>

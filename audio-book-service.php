@@ -39,7 +39,7 @@
                         <span class="section-title__tagline">Let us publish your Paper</span>
                         <h2 class="inner-pages-title">Turning your words into captivating audiobooks</h2>
                     </div>
-                    <p class="inner-pages-paragraph">Audiobooks make your stories available and accessible to a broader audience, including those who prefer to listen on the go or have limited time to read. They provide a new dimension to your narrative with voice narration, adding depth and emotion that transcends the written word. At Global Publishing Agency, we understand the power of storytelling, not just through words on a page but through the captivating experience of audio.
+                    <p class="inner-pages-paragraph">Audiobooks make your stories available and accessible to a broader audience, including those who prefer to listen on the go or have limited time to read. They provide a new dimension to your narrative with voice narration, adding depth and emotion that transcends the written word.<br><br>At Global Publishing Agency, we understand the power of storytelling, not just through words on a page but through the captivating experience of audio. Our Audiobook Services are meticulously crafted to transform your written work into an immersive auditory journey. Explore the world of audiobooks with us and give your story a voice that resonates with your audience.
                     </p>
 
                     <div class="inner-pages-btn">
