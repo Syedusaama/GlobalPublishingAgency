@@ -1639,7 +1639,10 @@
     /* padding-right: 45px;
       padding-bottom: 14px; */
   }
-  .main-logo-img {
+  .header-logo {
+    width: 250px;
+  }
+  .footer-logo {
     width: 350px;
   }
   .main-header--one__top-logo {
@@ -4411,7 +4414,7 @@
   }
   .footer-widget__about-logo p {
     font-size: 15px;
-    padding: 20px 13px;
+    padding: 7px 13px;
     color: #aeb2c2;
   }
   .footer-widget__about-logo {
@@ -4541,7 +4544,7 @@
   }
   
   .footer-widget__contact .phone a:hover {
-    color: var(--thm-primary);
+    color: var(--thm-base);
   }
   
   .footer-widget__social-links {

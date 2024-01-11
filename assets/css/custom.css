@@ -10,6 +10,9 @@
     justify-content: center;
     z-index: 1000;
   }
+
+
+
   /* feature-box */
 .feature-box{
   height: 300px;
@@ -242,6 +245,17 @@
   /* reviews main section */
   
   /* inner pages css */
+  .subheading-clr{
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+    background-color: #fff3;
+    padding: 6px 12px;
+    border-radius: 4px;
+  }
+
   .inner-main-banner {
     background: url(../images/inner-banner.png);
     padding: 70px 0 100px 0;
@@ -1487,7 +1501,9 @@
   /* section.testimonials-one .owl-item {
       margin-right: 24px !important;
   } */
-  
+  .book-img {
+    width: 262px;
+  }
   section.books-portfolio-section {
     padding: 80px 0;
     background: linear-gradient(182deg, #78254c, #4e1635);
