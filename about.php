@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
-<?php include "./components/head.php"?> 
+	<?php include "./components/head.php"?>
 </head>
 
 <body>
-    <!-- /.preloader -->
-    <?php include "./components/header.php"?> 
-    <!-- <section class="main-banner-custom bg-about">
+	<!-- /.preloader -->
+	<?php include "./components/header.php"?>
+		<!-- <section class="main-banner-custom bg-about">
     <div class="container">
         <div class="row">
             <div class="col-lg-7 col-md-7">
@@ -27,31 +27,27 @@
         </div>
     </div>
 </section> -->
-<section class="main-banner-custom bg-about">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="page-header__wrapper clearfix">
-                    <div class="col-lg-7 col-md-7 about-padding">
-                        <h1> <span> About </span>Us</h1>
-                        <img src="assets/images/banner-logo.png" alt="">
-                        <div class="contact-btns">
-                            <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
-                        </div>
-                    </div>
-                    <div class="page-header__menu">
-                        <ul class="page-header__menu-list list-unstyled clearfix">
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active">Aboutus</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- <div class="mt-50 mb-100">
+		<section class="main-banner-custom bg-about">
+			<div class="container">
+				<div class="row">
+					<div class="col-xl-12">
+						<div class="page-header__wrapper clearfix">
+							<div class="col-lg-7 col-md-7 about-padding">
+								<h1> <span> About </span>Us</h1> <img src="assets/images/banner-logo.png" alt="">
+								<div class="contact-btns"> <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a> </div>
+							</div>
+							<div class="page-header__menu">
+								<ul class="page-header__menu-list list-unstyled clearfix">
+									<li><a href="index.php">Home</a></li>
+									<li class="active">Aboutus</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- <div class="mt-50 mb-100">
     <div class="container">
         <div class="row ">
 
@@ -73,100 +69,78 @@
     </div>
 
 </div> -->
-
-<section class="welcome-one mt-100">
-    <div class="container">
-        <div class="row">
-            <!--Start Welcome One Left-->
-            <div class="col-xl-6">
-                <div class="about-one">
-                    <div class="section-title-about">
-                        <span class="section-title__tagline">Company Introductions</span>
-                        <h2 class="about_title">Crafting stories, empowering authors.</h2>
-                    </div>
-                    <p class="about_paragraph">Here at Global Publishing Agency, we believe in the transformative power of stories and the authors who bring them to life. As a dynamic book publishing and writing platform, we are more than a service – we are your dedicated partners on the literary journey. </p>
-                    <div class="about-btn">
-                        <a href="javascript:void(Tawk_API.toggle())" class="thm-btn">Hire Us Now</a>
-                    </div>
-                </div>
-            </div>
-            <!--End Welcome One Left-->
-
-            <!--Start Welcome One Right-->
-            <div class="col-xl-6">
-                <div class="welcome-one__right clearfix">
-                    <div class="shape1 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt=""></div>
-                    <div class="wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInRight;">
-                        <div class="about-img">
-                            <img src="assets/images/about-page/about.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--End Welcome One Right-->
-        </div>
-    </div>
-</section>
-
-<section class="books-portfolio-section">
-    <div class="container">
-        <div class="row">
-            <div class="section-title text-center">
-                <h2 class="section-title__title">We are committed to shaping literary dreams.</h2>
-                <p>Explore our services, discover compelling stories, and embark on a literary journey that transcends pages.</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--Why Choose One Start-->
-<section class=" mb-120 mt-100">
-    <div class="container">
-        <div class="row">
-            <!--Start Why Choose One Left-->
-
-            <div class="about-img col-xl-6 col-lg-6 wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInLeft;">
-                <img src="assets/images/about-page/first-sec.webp" alt="" class="img-fluid" />
-            </div>
-            <!--End Why Choose One Left-->
-
-            <!--Start Why Choose One Right-->
-            <div class="col-xl-6 col-lg-6">
-                <div class="why-choose-one__left">
-                    <div class="section-title-about">
-                        <span class="section-title__tagline">Our Mission</span>
-                        <h2 class="about_title">Publishers Of Bestselling Books</h2>
-                    </div>
-                    <p class="about_paragraph">At the heart of our mission is the belief that every story deserves to be told and heard. We strive to provide a platform where authors, both seasoned and aspiring, can find the support, resources, and expertise needed to navigate the complex yet rewarding world of publishing. Our mission is to empower authors to share their unique voices and narratives with the world.</p>
-                    <hr>
-                </div>
-            </div>
-            <!--End Why Choose One Right-->
-
-        </div>
-    </div>
-</section>
-<!--Why Choose One End-->
-<!--Why Choose One Start-->
-<section class=" mb-120">
-    <div class="container">
-        <div class="row">
-            <!--Start Why Choose One Right-->
-            <div class="col-xl-6 col-lg-6">
-                <div class="why-choose-one__left">
-                    <div class="section-title-about">
-                        <span class="section-title__tagline">Our Team</span>
-                        <h2 class="about_title">From Fiction to Tech, We do it all!</h2>
-                    </div>
-                    <p class="about_paragraph">Behind every success story is a dedicated team of professionals who are passionate about literature. At Global Publishing Agency, our teams of editors, designers, marketers, and book enthusiasts are united by a love for storytelling and a commitment to excellence.
-                    </p>
-                    <hr>
-                </div>
-            </div>
-            <!--End Why Choose One Right-->
-            <!--Start Why Choose One Left-->
-            <div class="about-img col-xl-6 col-lg-6 wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInRight;"">
-                <img src="assets/images/about-page/second-sec.webp" alt="" class="img-fluid" />
+		<section class="welcome-one mt-100">
+			<div class="container">
+				<div class="row">
+					<!--Start Welcome One Left-->
+					<div class="col-xl-6">
+						<div class="about-one">
+							<div class="section-title-about"> <span class="section-title__tagline">Company Introductions</span>
+								<h2 class="about_title">Crafting stories, empowering authors.</h2> </div>
+							<p class="about_paragraph">Here at Global Publishing Agency, we believe in the transformative power of stories and the authors who bring them to life. As a dynamic book publishing and writing platform, we are more than a service – we are your dedicated partners on the literary journey. </p>
+							<div class="about-btn"> <a href="javascript:void(Tawk_API.toggle())" class="thm-btn">Hire Us Now</a> </div>
+						</div>
+					</div>
+					<!--End Welcome One Left-->
+					<!--Start Welcome One Right-->
+					<div class="col-xl-6">
+						<div class="welcome-one__right clearfix">
+							<div class="shape1 rotate-me"><img src="assets/images/shapes/thm-shape1.png" alt=""></div>
+							<div class="wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInRight;">
+								<div class="about-img"> <img src="assets/images/about-page/about.webp" alt=""> </div>
+							</div>
+						</div>
+					</div>
+					<!--End Welcome One Right-->
+				</div>
+			</div>
+		</section>
+		<section class="books-portfolio-section">
+			<div class="container">
+				<div class="row">
+					<div class="section-title text-center">
+						<h2 class="section-title__title">We are committed to shaping literary dreams.</h2>
+						<p>Explore our services, discover compelling stories, and embark on a literary journey that transcends pages.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--Why Choose One Start-->
+		<section class=" mb-120 mt-100">
+			<div class="container">
+				<div class="row">
+					<!--Start Why Choose One Left-->
+					<div class="about-img col-xl-6 col-lg-6 wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInLeft;"> <img src="assets/images/about-page/first-sec.webp" alt="" class="img-fluid" /> </div>
+					<!--End Why Choose One Left-->
+					<!--Start Why Choose One Right-->
+					<div class="col-xl-6 col-lg-6">
+						<div class="why-choose-one__left">
+							<div class="section-title-about"> <span class="section-title__tagline">Our Mission</span>
+								<h2 class="about_title">Publishers Of Bestselling Books</h2> </div>
+							<p class="about_paragraph">At the heart of our mission is the belief that every story deserves to be told and heard. We strive to provide a platform where authors, both seasoned and aspiring, can find the support, resources, and expertise needed to navigate the complex yet rewarding world of publishing. Our mission is to empower authors to share their unique voices and narratives with the world.</p>
+							<hr> </div>
+					</div>
+					<!--End Why Choose One Right-->
+				</div>
+			</div>
+		</section>
+		<!--Why Choose One End-->
+		<!--Why Choose One Start-->
+		<section class=" mb-120">
+			<div class="container">
+				<div class="row">
+					<!--Start Why Choose One Right-->
+					<div class="col-xl-6 col-lg-6">
+						<div class="why-choose-one__left">
+							<div class="section-title-about"> <span class="section-title__tagline">Our Team</span>
+								<h2 class="about_title">From Fiction to Tech, We do it all!</h2> </div>
+							<p class="about_paragraph">Behind every success story is a dedicated team of professionals who are passionate about literature. At Global Publishing Agency, our teams of editors, designers, marketers, and book enthusiasts are united by a love for storytelling and a commitment to excellence. </p>
+							<hr> </div>
+					</div>
+					<!--End Why Choose One Right-->
+					<!--Start Why Choose One Left-->
+					<div class="about-img col-xl-6 col-lg-6 wow slideInRight animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInRight;" ">
+                <img src="assets/images/about-page/second-sec.webp " alt=" " class="img-fluid " />
             </div>
             <!--End Why Choose One Left-->
 
@@ -177,7 +151,7 @@
 </section>
 
 <!--Start Footer One-->
-<?php include "./components/footer.php"?> 
+<?php include "./components/footer.php"?>
 <!--End Footer One-->
 </body>
 
