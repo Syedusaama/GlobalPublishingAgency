@@ -20,7 +20,7 @@
 							</div>
 							<div class="page-header__menu">
 								<ul class="page-header__menu-list list-unstyled clearfix">
-									<li><a href="index.html">Home</a></li>
+									<li><a href="index.php">Home</a></li>
 									<li class="active">Reviews</li>
 								</ul>
 							</div>
@@ -77,44 +77,15 @@
 					<!-- Review 8 -->
 					<div class=" col-lg-4 col-sm-12 review-sec-page"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
 						<h3 class="review-title">Professional and Timely Service</h3>
-						<p class="review-text">I used Global Publishing Center for my ghostwriting needs and I couldn't be happier with the results. The team was professional and delivered the work in a timely manner. Highly recommended!</p>
+						<p class="review-text">I used Global Publishing Agency for my ghostwriting needs and I couldn't be happier with the results. The team was professional and delivered the work in a timely manner. Highly recommended!</p>
 						<p class="review-name">- Rachel Lee</p>
 					</div>
 					<!-- Review 9 -->
 					<div class=" col-lg-4 col-sm-12 review-sec-page"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
-						<h3 class="review-title">Great Experience with Global Publishing Center</h3>
+						<h3 class="review-title">Great Experience with Global Publishing Agency</h3>
 						<p class="review-text">The illustrations were captivating and aligned well with the storyline. It's clear that the team behind this children's book understands the unique dynamics of composing a book for young readers. I'm grateful and look forward to hiring Global Publishing Agency for their other services.</p>
 						<p class="review-name">- David Chen</p>
 					</div>
-					<!-- Review 10 -->
-					<!-- <div class=" col-lg-4 col-sm-12 review-sec-page">
-            <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
-            <h3 class="review-title">Amazing Ghostwriting Services</h3>
-            <p class="review-text">Global Publishing Center's ghostwriting services are amazing. They helped me write and publish my latest book and the final product exceeded my expectations. I highly recommend them to anyone in need of ghostwriting services.</p>
-            <p class="review-name">- Samantha Rodriguez</p>
-        </div> -->
-					<!-- Review 11 -->
-					<!-- <div class=" col-lg-4 col-sm-12 review-sec-page">
-            <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
-            <h3 class="review-title">Fantastic Editing Services</h3>
-            <p class="review-text">I used Global Publishing Center for editing services for my latest book and they did a fantastic job. The team was very attentive to detail and caught mistakes that I had missed. I highly recommend their editing services.</p>
-            <p class="review-name">- Michael Johnson</p>
-        </div> -->
-					<!-- Review 12 -->
-					<!-- <div class=" col-lg-4 col-sm-12 review-sec-page">
-            <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
-            <h3 class="review-title">Great Book Publishing Experience</h3>
-            <p class="review-text">Global Publishing Center made the book publishing process easy and stress-free for me. They were very professional and provided excellent guidance throughout the process. I highly recommend their services.</p>
-            <p class="review-name">- Elizabeth Brown</p>
-        </div> -->
-					<!-- Review 13 -->
-					<!-- <div class=" col-lg-4 col-sm-12 review-sec-page">
-            <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="">
-            <h3 class="review-title">Excellent Ghostwriting Services</h3>
-            <p class="review-text">I used Global Publishing Center's ghostwriting services for my latest book and I am extremely happy with the results. The team was very professional and delivered high-quality work. Highly recommended!</p>
-            <p class="review-name">- Robert Johnson</p>
-        </div> -->
-					<!-- Review 14 -->
 				</div>
 			</div>
 		</div>
