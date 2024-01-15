@@ -734,8 +734,9 @@
   
   /** Mobile Layout: 320px. **/
   @media only screen and (max-width: 767px) {
+
     .section-title__title {
-      font-size: 40px;
+      font-size: 35px;
     }
   
     /*** Main Header One Css***/
@@ -880,7 +881,9 @@
     .registration-one__left-transform-box-icon {
       margin: 0 auto 20px;
     }
-  
+    .registration-one__left-transform-box-icon{
+      width: 30%;
+    }
     .registration-one__left-transform-box {
       display: block;
       margin-top: 50px;
@@ -949,7 +952,8 @@
     /***Footer One Css***/
     .footer-widget__courses {
       margin-left: 0px;
-      margin-top: 40px;
+      margin-top: 0px;
+      padding: 0px 0px 0px 15px;
     }
   
     .footer-widget__links {
@@ -958,8 +962,9 @@
     }
   
     .footer-widget__contact {
-      margin-top: 40px;
-      margin-bottom: 35px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding: 0px 0px 0px 15px;
     }
   
     /***Categories Two Css***/
@@ -979,6 +984,9 @@
     }
   
     /***Welcome One Css***/
+    .welcome-one{
+      padding: 0px 0px 50px;
+    }
     .welcome-one .section-title__title br {
       display: none;
     }
@@ -1110,7 +1118,25 @@
     .registration-two__right-btn {
       margin-top: 20px;
     }
-  
+  /* about-page */
+  .page-header__wrapper{
+    padding-top: 100px;
+
+  }
+  .about-padding{
+    padding-bottom: 80px;
+  }
+  .about-one{
+    padding: 50px 0 0px;
+  }
+
+  .about_title{
+    font-size: 35px;
+  }
+  /* about-page */
+
+
+
     /***About Two Css***/
     .about-two .section-title__title br {
       display: none;
@@ -1130,6 +1156,9 @@
     }
   
     /***Registration Two Css***/
+    .registration-one{
+      padding: 50px 0px 50px;
+    }
     .registration-two__wrapper .shape1 {
       display: none;
     }
@@ -1140,7 +1169,7 @@
   
     /***Counter One About Css***/
     .counter-one--about {
-      padding: 120px 0px 90px;
+      padding: 50px 0px 50px;
     }
   
     .contact-details-one__single {
@@ -1241,7 +1270,11 @@
     .course-details__progress-text {
       min-width: 85px;
     }
-  
+  /* reviews-page */
+  .page-header__title{
+    padding-bottom: 100px;
+  }
+   /* reviews-page */
     .course-details__reviews {
       padding: 45px 29px 50px;
     }
@@ -1348,6 +1381,9 @@
     }
   
     /***Testimonials One Css**/
+    .testimonials-one{
+      padding: 30px 0px 30px;
+    }
     .testimonials-one .section-title {
       margin-bottom: 47px;
     }
@@ -1394,6 +1430,15 @@
     .registration-one__left-transform-box-text p {
       color: #fff;
     }
+
+    /* footer */
+
+    .footer-one__top{
+      padding: 50px 0px 50px;
+    }
+
+
+     /* footer */
   }
   
   @media only screen and (max-width: 450px) {
