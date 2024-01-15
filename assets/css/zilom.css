@@ -1348,7 +1348,7 @@
   
   .mobile-nav__close {
     position: absolute;
-    top: 27px;
+    top: 4px;
     right: 15px;
     font-size: 18px;
     color: #fff;
@@ -1488,6 +1488,7 @@
   .mobile-nav__contact li a {
     color: #ffffff;
     transition: 500ms;
+    font-size: 12px;
   }
   
   .mobile-nav__contact li a:hover {
@@ -2741,7 +2742,7 @@
     position: relative;
     display: block;
     background: #ffffff;
-    padding: 120px 0px 90px;
+    padding: 90px 0px 90px;
     background-image: url(../images/bg-1.jpg);
     background-position: top left;
     background-repeat: no-repeat;
@@ -4401,10 +4402,10 @@
   
   .footer-widget__title {
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 30px;
-    font-weight: 700;
-    margin-bottom: 31px;
+    font-weight: 500;
+    padding: 31px 0px;
   }
   
   .footer-widget__about {
@@ -5494,7 +5495,7 @@
   ***/
   
   section.features-two.bg-paper-pub {
-    background-image: url(../images/bg-paper.jpg);
+    background-image: url(../images/bg-paper.webp);
   }
   
   .features-two {
