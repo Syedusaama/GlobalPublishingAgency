@@ -58,11 +58,16 @@
   }
   
   section.main-banner-custom .contact-btns a {
-    background: #621f43;
-    padding: 10px 30px;
+    background: var(--thm-base);
+    padding: 12px 30px;
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    transition: ease-out 0.8s;
+  }
+  section.main-banner-custom .contact-btns a:hover{
+    background-color: #1c1e27;
+    box-shadow: inset 0 100px 0 0 #1c1e27;
   }
   
   section.main-banner-custom img {
@@ -95,13 +100,12 @@
   }
   
   section.main-banner-custom {
-    /* background: url(../images/banner.jpg); */
     background-image: linear-gradient(
         to right,
         rgb(0 0 0 / 60%),
         rgb(0 0 0 / 60%)
       ),
-      url(../images/banner.jpg);
+      url(../images/banner.webp);
     padding: 100px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,22 +113,8 @@
   
   /* SERVICES BANNER */
   
-  section.main-banner-custom.bg-service {
-    background: url(../images/service-page-banner.jpg);
-    padding: 70px 0 100px 0;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
   section.main-banner-custom.bg-service h1 {
     padding-top: 0px;
-  }
-  
-  section.main-banner-custom.bg-service-ghostwriter {
-    background: url(../images/ghostwriter-bg.jpg);
-    padding: 70px 0 100px 0;
-    background-repeat: no-repeat;
-    background-size: cover;
   }
   
   section.main-banner-custom.bg-service-ghostwriter h1 {
@@ -132,8 +122,7 @@
   }
   
   section.main-banner-custom.bg-service-paper {
-    background: linear-gradient(to right,#000000c7, #4c1534db), url(../images/inner-banner.jpg);
-    /* background: url(../images/inner-banner.png); */
+    background: linear-gradient(to right,#000000c7, #4c1534db), url(../images/inner-banner.webp);
     padding: 70px 0 100px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,7 +135,7 @@
   
   section.main-banner-custom.bg-about {
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-      url(../images/about-us.jpg);
+      url(../images/about-us.webp);
     padding: 0px 0 0px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -155,7 +144,7 @@
 /* privacy policy page */
   .privacy-main-sec{
   background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-  url(../images/privacy-policy.jpg);
+  url(../images/privacy-policy.webp);
   padding: 120px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -182,7 +171,7 @@
 
 .term-main-sec{
   background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-  url(../images/term-condition.jpg);
+  url(../images/term-condition.webp);
   padding: 120px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -205,7 +194,7 @@
 }
   section.main-banner-custom.bg-reviews {
     background: linear-gradient(to right, rgb(0 0 0 / 60%), rgb(0 0 0 / 60%)),
-      url(../images/reviews.jpeg);
+      url(../images/reviews.webp);
     padding: 0px 0 0px 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -297,12 +286,15 @@
   
   .row.content-area-com {
     color: #1a1a1a;
-    line-height: 22px;
+    line-height: 28px;
+    font-size: 18px;
+    max-width: 1100px;
   }
   
   .row.content-area-com h5 {
     color: #621f43;
-    padding: 20px 0 10px 0;
+    padding: 20px 0 20px 0;
+    font-size: 25px;
   }
   
   .row.content-area-com P {
@@ -334,14 +326,11 @@
   }
   
   .domain-search-wrap.border.gray-light-bg {
-    /* background-color: #4d5fe3; */
-    background-image: linear-gradient(to right, #75244a, #75244a),
-      url(../images/books.jpg);
+    background-image: linear-gradient(to right, #75244a, #75244a);
     border-radius: 12px;
     margin-top: 60px;
     padding-top: 25px;
     border: 1px solid #75244a !important;
-    /* background-image: url(../images/books.jpg); */
     box-shadow: 0 1px 20px 0 #0000002e;
   }
   
@@ -1532,6 +1521,32 @@
   }
   
   @media screen and (max-width: 767px) {
+    /* Banner */
+    section.main-banner-custom h1{
+      line-height: 0.8;
+      padding-bottom: 10px;
+    }
+    section.main-banner-custom{
+      padding: 20px 0px;
+    }
+    section.main-banner-custom h1 span{
+      font-size: 35px;
+    }
+    section.main-banner-custom h1 b{
+      font-size: 35px;
+    }
+
+  /* Banner */
+
+  .choose-mobile {
+    padding-left: 15px;
+    }
+    .books-portfolio-section h2.section-title__title{
+      font-size: 35px;
+    }
+
+
+
     .why-choose-one__right-img img {
       max-width: 100%;
       float: left;
@@ -1543,17 +1558,22 @@
       padding-top: 50px;
       padding-bottom: 0;
     }
-  
+    
     .why-choose-one {
       padding-top: 0;
+      margin-bottom: 50px;
     }
-  
+    section.our-process{
+      padding-bottom: 50px;
+    }
     section.our-process ul.timeline {
       margin-left: 90px;
     }
   
     section.our-process .rt-container {
       overflow-x: scroll;
+      overflow-y: hidden;
+      padding: 50px 0px;
     }
   
     .section-title.text-center.mb-120 {
@@ -1566,6 +1586,23 @@
   
     section.welcome-one.mt-100 {
       margin-top: 0;
+    }
+    .footer-widget__column.footer-widget__contact img{
+      width: 80%;
+    }
+    .review-body{
+      padding: 20px;
+      display: block;
+    }
+    .review-sec-page{
+      width: 100%;
+      padding: 15px;
+      margin: 20px 0px;
+  
+    }
+    .review-text{
+      font-size: 16px;
+      line-height: 1.4;
     }
   }
   
