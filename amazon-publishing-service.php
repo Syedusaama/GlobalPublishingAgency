@@ -14,7 +14,8 @@
 <section class="main-banner-custom bg-service-paper">
     <div class="container">
         <div class="row">
-            <div class="col-lg-7 col-md-7">
+            <div class="col-lg-10 col-md-10">
+            <span class="subheading-clr">AMAZON PUBLISHING SERVICE</span>
                 <h1> <span> Navigating Amazon's literary landscape: publish your masterpiece with confidence. </span></h1>
                 <p> Explore your publishing possibilities and craft your book’s success on Amazon. </p>
                 <img src="assets/images/banner-logo.png" alt="">
@@ -22,7 +23,7 @@
                     <a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a>
                 </div>
             </div>
-            <div class="col-lg-5 col-lg-5">
+            <div class="col-lg-2 col-lg-2">
             </div>
         </div>
     </div>
