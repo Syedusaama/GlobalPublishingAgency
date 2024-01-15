@@ -35,8 +35,8 @@
 		<!--Features One Start-->
 		<section class="features-one">
 			<div class="section-title text-center"> <span class="section-title__tagline">Your Book, Our Expertise.</span>
-				<h2 class="section-title__title">Elevate Your Narrative with<br> Global Publishing Agency</h2> </div>
-			<div class="container">
+				<h2 class="section-title__title">Elevate Your Narrative with Global Publishing Agency</h2> </div>
+			<div class="container pt-5">
 				<div class="row justify-content-center ">
 					<!--Start Single Features One-->
 					<div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
@@ -281,7 +281,7 @@
 					<div class="col-xl-6 col-lg-6"> <img src="assets/images/resources/book-banner-02.webp" alt="" class="img-fluid" /> </div>
 					<!--End Why Choose One Right-->
 					<!--Start Why Choose One Left-->
-					<div class="col-xl-6 col-lg-6 pl-50">
+					<div class="col-xl-6 col-lg-6 pl-50 choose-mobile">
 						<div class="why-choose-one__left">
 							<div class="section-title"> <span class="section-title__tagline">What do we offer</span>
 								<h2 class="section-title__title">Find your voice in the hands of skilled storytellers.</h2> </div>
@@ -359,7 +359,7 @@
 									</div>
 									<button class="accordion">What is the process of book publishing, and how does it work?</button>
 									<div class="panel">
-										<p>Book publishing involves several stages, including manuscript preparation, editing, design, printing, and distribution. At our publishing center, we guide you through each step, ensuring a seamless journey from manuscript to a professionally published book.</p>
+										<p>Book publishing involves several stages, including manuscript preparation, editing, design, printing, and distribution. At our publishing agency, we guide you through each step, ensuring a seamless journey from manuscript to a professionally published book.</p>
 									</div>
 									<button class="accordion">What distribution options are available for my published book? </button>
 									<div class="panel">
@@ -462,7 +462,7 @@
 											<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 												<div class="testimonials-one__single-inner">
 													<h4 class="testimonials-one__single-title">Strongly Recommended</h4>
-													<p class="testimonials-one__single-text">"Global Publishing Center made my dream of publishing a book a reality. Their team of professionals walked me through the process step by step, and I couldn't be happier with the final product. Thank you, Global Publishing Center!"</p>
+													<p class="testimonials-one__single-text">"Global Publishing Agency made my dream of publishing a book a reality. Their team of professionals walked me through the process step by step, and I couldn't be happier with the final product. Thank you, Global Publishing Agency!"</p>
 													<div class="testimonials-one__single-client-info">
 														<div class="testimonials-one__single-client-info-img"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="" /> </div>
 														<div class="testimonials-one__single-client-info-text">
