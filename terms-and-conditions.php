@@ -1,96 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
-<?php include "./components/head.php"?> 
+	<?php include "./components/head.php"?>
 </head>
 
 <body>
-    <!-- /.preloader -->
-    <?php include "./components/header.php"?>
-<section class="term-main-sec">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7 col-md-7">
-                <h1> <span> Terms & </span> Conditions </h1>
-                <img src="assets/images/banner-logo.png" alt="">
-                <div class="contact-btns">
-                    <a href="#!">Chat With Expert</a>
-                </div>
-            </div>
-            <div class="col-lg-5 col-lg-5">
-            </div>
-        </div>
-    </div>
-</section>
-
-<div class="mt-50 mb-100">
-    <div class="container">
-        <div class="row content-area-com">
-            Your use of this Website and/or the services provided by the Global Publishing Center constitutes your acceptance of the following terms and conditions. If you do not agree to any of these terms and conditions, please refrain from using this Website or our services.
-
-            If you are under the legal age of consent for your respective district, you are not permitted to access or use this Website or our services. You understand and agree that you must be of legal age to purchase any of our products or services available on this Website or otherwise.
-
-            By submitting an order and/or payment, you acknowledge that you have read and understood these terms and conditions. By submitting an order and/or payment, you also agree to be legally bound by these terms and conditions, which constitute the entire agreement between you and the Global Publishing Center.
-
-            <h5>DEFINITIONS</h5>
-            “Website” refers to all online content on the Global Publishing Center website pages.
-            “Customer,” “You,” or “Yours” refers to you and/or any other person submitting an order to the Global Publishing Center on your behalf.
-            “Company,” “We,” or “Our” refers to the Global Publishing Center, a company registered under the laws.
-            “Product” refers to all services and products provided by the Global Publishing Center to the customer in accordance with their order.
-            “Order” refers to an order via phone or email made by the customer to purchase services or products provided by the Global Publishing Center.
-
-            <h5>OUR SERVICES</h5>
-            By submitting the order and/or payment, you are purchasing the product for your use only. All products are drafted by freelance writers who have transferred all rights and ownership regarding the products to the company. All products are non-refundable and come with no warranties, expressed or implied. It is your obligation to read these terms and conditions before submitting any order and/or payment to this Website.
-
-            <h5>REFUND POLICY</h5>
-            It is important that you read and fully understand the refund policy to have full knowledge of the privileges and limitations governed by the Global Publishing Center policy.
-
-            We offer refunds only in special cases and under specified conditions, detailed as follows:
-
-            <h5>CHANGE OF MIND:</h5>
-            The customer is entitled to a 100% refund before our writers/editors start working on the project.
-
-            If, for any reason, you change your mind and decide against continuing your project with us after placing your order, you can request a refund within the first hour of placing your order. A 15% processing fee will be charged in other cases.
-
-            <h5>INCOMPETENT DELIVERY:</h5>
-            Once the work is delivered, customers are only entitled to claim a refund once they have exhausted all the options detailed below;
-
-            If the work does not comply with project requirements (as requested/documented by the customer). We are committed to providing our customers with 100% satisfaction and offer unlimited revisions to ensure that the delivery is up to the mark. We assign, re-assign, and re-write your work to ensure complete satisfaction.
-
-            Reserve FREE pages for the future, but of the same value, and you can avail of them at any time.
-
-            If we are still unable to deliver what you asked for, a refund will be processed with a mutual agreement on a set percentage (but only in cases where the delivery is completely off the mark).
-
-            <h5>LATE DELIVERY:</h5>
-            We believe in “On Time Delivery” but if, for any reason, we fail to deliver the requested service on time, after at least three attempts to contact us, your refund will be processed once it is established through documentary evidence that the late delivery was the company’s fault.
-
-            <h5>REFUND TIME FRAME:</h5>
-            Refunds must be claimed within 120 days of delivery. Refunds claimed after the set time frame will not be entertained.
-
-            All customers must note the deadline for claiming a refund at the time of placing the order.
-
-            <h5>REFUNDS WILL NOT BE GIVEN IN FOLLOWING SITUATIONS</h5>
-
-            If there is a delay in delivery due to minor technical issues like grammatical errors, typing errors, word count, or missing references, refunds will be given only with mutual agreement, and the company will provide only partial refunds or discounts for future purchases.
-            The Global Publishing Center will not be held responsible for any delay caused by the client.
-            Refunds will not be provided based on low-quality writing.
-        </div>
-    </div>
-</div>
-
-<!--<div class="floating_btn">-->
-<!--    <a target="_blank" href="https://wa.me/+16164693925/?text=Hello, I need help in my publications">-->
-<!--      <div class="contact_icon">-->
-<!--           <img src="assets/images/whatsapp.png" class="my-float" alt="">-->
-
-<!--      </div>-->
-<!--</a></div>-->
-
-<!--Start Footer One-->
-<?php include "./components/footer.php"?> 
-<!--End Footer One-->
+	<!-- /.preloader -->
+	<?php include "./components/header.php"?>
+		<section class="term-main-sec">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7 col-md-7">
+						<h1> <span> Terms & </span> Conditions </h1> <img src="assets/images/banner-logo.png" alt="">
+						<div class="contact-btns"> <a href="#!">Chat With Expert</a> </div>
+					</div>
+					<div class="col-lg-5 col-lg-5"> </div>
+				</div>
+			</div>
+		</section>
+		<div class="mt-50 mb-100">
+			<div class="container">
+				<div class="row content-area-com">
+					<h5>TERMS & CONDITIONS</h5> The following terms and conditions apply to projects undertaken by <a href="#">www.globalpublishingagency.com</a>
+					<h5>COPYRIGHT </h5>You will hold full copyright to the content that we will develop for you and deliver as per the agreed terms. We will hold no copyright whatsoever on the content and you are free to publish and use it as per your wish.
+					<h5> PAYMENT</h5> We charge 100% advance payment for all services mentioned on the website. All transaction charges and tax (as applicable) are to be borne by the client.
+					<h5> REVISIONS</h5>We offer unlimited number of revisions on delivered work, as long as the requests are made within 7 days of delivering the work, and in special cases, as long as the requests are made within 14 days of delivering of work. All revision requests pertaining to customers order will be completed as per the urgency of the order with 24 hours as standard minimum turnaround time.<br><br>Revision turnaround time as per urgency is as follows:<br><br><ul><li>For orders up to 24 hours of urgency; Revision turnaround time would be 24 hours.</li><li>For orders between 24-48 hours of urgency; Revision turnaround time would be 48 hours.</li><li>For orders of 48 hours and above; Revision turnaround time would be 72 hours.</li></ul>
+					<h5>PROJECT REQUIREMENTS</h5> Any project requirements will be discussed with the clients before the start of a project. Service level disputes will be addressed based on the agreed terms and requirements at the beginning of a project, these terms and conditions, as well as reasonable business practices.
+					<h5>REFUND POLICY</h5> You may claim a full refund of your amount before we have started working on your project. However, once the work has started on a project the refund will be processed after deducting any applicable transaction charges from the amount. Refund requests will not be accepted if you sign up using a limited time or discounted promotion.<br><br>A refund request can be submitted if you are not satisfied with any product or service provided by Amazon Publishing Agency within 5 days of your order completion. Certain percentage based refund would be granted if we are unable to provide required service through our unlimited revision policy. If no refund request is received within five days after your order has been delivered, your satisfaction over the delivered order shall be assumed by both the parties.
+					<h5>TERM OF USE OF THIS WEBSITE</h5><ul>
+						<li>The information provided on www.amazonpublishingagency.com includes, but is not limited to, the services provided by the company and does not render any advice, certifications, guarantees or warranties.</li><br>
+						<li>The company or any of its affiliates or associates or employees shall not be in any way responsible for any loss or damage that may arise to any person from any inadvertent error in the information contained in this website.</li><br>
+						<li>The company and its affiliates and associates shall not be liable, at any time, for any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communications line failure, theft or destruction or unauthorized access to, alteration of, or use of information contained on the website.</li><br>
+						<li>You agree to defend, indemnify, and hold the company and its subsidiaries, affiliates, officers, agents, and employees, harmless from and against any claims, liabilities, damages, losses, and expenses, arising out of or in any way connected with (i) your access to or use of the website and the services therein; (ii) your violation of these Terms of Use; (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right.</li><br>
+						<li>This Agreement or your use of this Site does not constitute any joint venture, partnership, employment or agency relationship between you and the company.</li><br>
+						The representatives may use the pseudo names depending on which region they are interacting in order to facilitate and do a better communication with our customers because we deal in the global market.
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!--<div class="floating_btn">-->
+		<!--    <a target="_blank" href="https://wa.me/+16164693925/?text=Hello, I need help in my publications">-->
+		<!--      <div class="contact_icon">-->
+		<!--           <img src="assets/images/whatsapp.png" class="my-float" alt="">-->
+		<!--      </div>-->
+		<!--</a></div>-->
+		<!--Start Footer One-->
+		<?php include "./components/footer.php"?>
+			<!--End Footer One-->
 </body>
 
 </html>
