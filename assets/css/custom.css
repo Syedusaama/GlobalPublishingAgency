@@ -1174,20 +1174,6 @@
     border-radius: 30px;
   }
   
-  /* 
-  .pkg-bx .pkg-list::-webkit-scrollbar-track {
-      background-color: #c5c5c5;
-  }
-  
-  .pkg-bx .pkg-list::-webkit-scrollbar {
-      background-color: #4d5fe3;
-      width:8px;
-      border-radius:2px;
-  }
-  
-  .pkg-bx .pkg-list::-webkit-scrollbar-thumb {
-      background-color: #4d5fe3;
-  } */
   
   .pkg-bx:hover .pkg-list::-webkit-scrollbar-track {
     background-color: #4d5fe3;
@@ -1485,9 +1471,6 @@
     margin-top: 20px;
   }
   
-  /* section.testimonials-one .owl-item {
-      margin-right: 24px !important;
-  } */
   .book-img {
     width: 262px;
   }
@@ -1542,8 +1525,6 @@
     .books-portfolio-section h2.section-title__title{
       font-size: 35px;
     }
-
-
 
     .why-choose-one__right-img img {
       max-width: 100%;
