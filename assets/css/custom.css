@@ -1588,7 +1588,7 @@
     }
   }
   
-  .container {
+  .cont-logos {
     overflow: hidden;
     .slider {
       animation: slidein 30s linear infinite;

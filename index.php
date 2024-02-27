@@ -30,7 +30,7 @@
 		<section>
 					<div class="row-fluid">
 						<div class="logos-container-2 "> 
-					<div class="container h-100 p-3">
+					<div class="container cont-logos h-100 p-3">
 			<div class="row align-items-center h-100">
 			<div class="container rounded">
 				<div class="slider">
