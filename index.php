@@ -29,7 +29,70 @@
 		<!--Why Choose One Start-->
 		<section>
 			<div class="row-fluid">
-				<div class="logos-container-2"> <img src="assets/images/resources/logos.webp" alt=""> </div>
+				<div class="logos-container-2"> 
+					<img src="assets/images/resources/logos.webp" alt=""> 
+					<div class="row">
+									<div class="col-xl-12">
+										<div class="testimonials-three__carousel owl-carousel owl-theme owl-dot-type1">
+											<!--Start Single Testimonials One -->
+											<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+												<div class="testimonials-one__single-inner">
+													<h4 class="testimonials-one__single-title">Amazing Service</h4>
+													<p class="testimonials-one__single-text">"The entire process was seamless, and the final manuscript exceeded my expectations. The publishing journey that followed was equally impressive, with their team guiding me through every step. My book is now a reality, and I couldn't be happier with the outcome!"</p>
+													<div class="testimonials-one__single-client-info">
+														<div class="testimonials-one__single-client-info-img"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="" /> </div>
+														<div class="testimonials-one__single-client-info-text">
+															<h5> - Emily R.</h5> </div>
+													</div>
+												</div>
+											</div>
+											<!--End Single Testimonials One -->
+											<!--Start Single Testimonials One -->
+											<div class="testimonials-one__single wow fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
+												<div class="testimonials-one__single-inner">
+													<h4 class="testimonials-one__single-title">Best Publication Service</h4>
+													<p class="testimonials-one__single-text">"As a first-time author, the ghostwriting and publishing experience with Global Publishing Agency was a revelation. The writing team delicately handled my vision, turning it into a compelling narrative. The publishing process was a breeze, with their meticulous attention to detail ensuring a polished final product."</p>
+													<div class="testimonials-one__single-client-info">
+														<div class="testimonials-one__single-client-info-img"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="" /> </div>
+														<div class="testimonials-one__single-client-info-text">
+															<h5>- Michael S.</h5> </div>
+													</div>
+												</div>
+											</div>
+											<!--End Single Testimonials One -->
+											<!--Start Single Testimonials One -->
+											<div class="testimonials-one__single wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+												<div class="testimonials-one__single-inner">
+													<h4 class="testimonials-one__single-title">Highly Recommended</h4>
+													<p class="testimonials-one__single-text">"As an academic, I needed editing services that could proofread complex ideas with clarity and precision. Global Publishing Agency exceeded my expectations. Their editors seamlessly translated my research into an accessible yet scholarly narrative. The publishing process was equally impressive, with attention to detail that showcased a commitment to quality."</p>
+													<div class="testimonials-one__single-client-info">
+														<div class="testimonials-one__single-client-info-img"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="" /> </div>
+														<div class="testimonials-one__single-client-info-text">
+															<h5>- John D. </h5> </div>
+													</div>
+												</div>
+											</div>
+											<!--End Single Testimonials One -->
+											<!--Start Single Testimonials One -->
+											<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+												<div class="testimonials-one__single-inner">
+													<h4 class="testimonials-one__single-title">Strongly Recommended</h4>
+													<p class="testimonials-one__single-text">"Global Publishing Agency made my dream of publishing a book a reality. Their team of professionals walked me through the process step by step, and I couldn't be happier with the final product. Thank you, Global Publishing Agency!"</p>
+													<div class="testimonials-one__single-client-info">
+														<div class="testimonials-one__single-client-info-img"> <img src="assets/images/testimonial/testimonials-v1-client-info-img2.webp" alt="" /> </div>
+														<div class="testimonials-one__single-client-info-text">
+															<h5> - Sarah K.</h5> </div>
+													</div>
+												</div>
+											</div>
+											<!--End Single Testimonials One -->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 		<!--Features One Start-->
