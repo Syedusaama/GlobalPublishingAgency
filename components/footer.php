@@ -182,3 +182,10 @@ var Tawk_API = Tawk_API || {},
 })();
 </script>
 <!--End of Tawk.to Script-->
+
+<script type="text/javascript">
+$('.multiple-items').slick({
+  infinite: true,
+  slidesToShow: 3,
+  slidesToScroll: 3
+});

@@ -31,6 +31,10 @@
 <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.carousel.min.css" />
 <link rel="stylesheet" href="assets/vendors/owl-carousel/owl.theme.default.min.css" />
 <link rel="stylesheet" href="assets/vendors/twentytwenty/twentytwenty.css" />
+<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js">
+
 <!-- template styles -->
 <link rel="stylesheet" href="assets/css/zilom.css" />
 <link rel="stylesheet" href="assets/css/zilom-responsive.css" />

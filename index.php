@@ -30,50 +30,31 @@
 		<section>
 			<div class="row-fluid">
 				<div class="logos-container-2 "> 
-					<!-- <img src="assets/images/resources/logos.webp" alt="">  -->
-					<div class="row">
-							<div class="col-xl-12">
-								<div class=" logos-container-2 testimonials-three__carousel owl-carousel">
-									<!--Start Single Testimonials One -->
-									<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-										<div class="logos-cls">
-											<img src="assets/images/resources/1.png" alt=""> 
-										</div>
-									</div>
-									<!--End Single Testimonials One -->
-									<!--Start Single Testimonials One -->
-									<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-										<div class="logos-cls">
-											<img src="assets/images/resources/2.png" alt=""> 
-										</div>
-									</div>
-									<!--End Single Testimonials One -->
-									<!--Start Single Testimonials One -->
-									<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-										<div class="logos-cls">
-											<img src="assets/images/resources/3.png" alt=""> 
-										</div>
-									</div>
-									<!--End Single Testimonials One -->
-									<!--Start Single Testimonials One -->
-									<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-										<div class="logos-cls">
-											<img src="assets/images/resources/4.png" alt=""> 
-										</div>
-									</div>
-									<!--End Single Testimonials One -->
-									<!--Start Single Testimonials One -->
-									<div class="testimonials-one__single wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-										<div class="logos-cls">
-											<img src="assets/images/resources/5.png" alt=""> 
-										</div>
-									</div>
-									<!--End Single Testimonials One -->
-								</div>
-							</div>
-						</div>
-				</div>
-			</div>
+			<div class="container h-100 p-3">
+  <div class="row align-items-center h-100">
+    <div class="container rounded">
+      <div class="slider">
+        <div class="logos">
+		<img src="assets/images/resources/1.png" alt="">
+		<img src="assets/images/resources/2.png" alt="">
+		<img src="assets/images/resources/3.png" alt="">
+		<img src="assets/images/resources/4.png" alt="">
+		<img src="assets/images/resources/5.png" alt="">
+        </div>
+        <div class="logos">
+		<img src="assets/images/resources/1.png" alt="">
+		<img src="assets/images/resources/2.png" alt="">
+		<img src="assets/images/resources/3.png" alt="">
+		<img src="assets/images/resources/4.png" alt="">
+		<img src="assets/images/resources/5.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
 		</section>
 		<!--Features One Start-->
 		<section class="features-one">
@@ -376,7 +357,7 @@
 												<textarea placeholder="Comment"></textarea>
 											</div>
 											<button class="registration-one__right-form-btn" type="submit" name="submit-form"> <span class="thm-btn">Submit</span> </button>
-											<!-- <button class="registration-one__right-form-btn" type="submit" name="submit-form"> <span class="thm-btn"><a href="javascript:void(Tawk_API.toggle())">Chat With Expert</a></span> </button> -->
+											<button class="registration-one__right-form-btn" type="submit" name="submit-form"> <span class="thm-btn"><a href="javascript:void(Tawk_API.toggle())">Chat Us</a></span> </button>
 										</form>
 									</div>
 								</div>

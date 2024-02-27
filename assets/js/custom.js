@@ -196,3 +196,6 @@ function openTab(evt, cityName) {
   }
   
   document.getElementById("defaultOpen").click();
+
+
+
