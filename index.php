@@ -28,33 +28,30 @@
 		</section>
 		<!--Why Choose One Start-->
 		<section>
-			<div class="row-fluid">
-				<div class="logos-container-2 "> 
-			<div class="container h-100 p-3">
-  <div class="row align-items-center h-100">
-    <div class="container rounded">
-      <div class="slider">
-        <div class="logos">
-		<img src="assets/images/resources/1.png" alt="">
-		<img src="assets/images/resources/2.png" alt="">
-		<img src="assets/images/resources/3.png" alt="">
-		<img src="assets/images/resources/4.png" alt="">
-		<img src="assets/images/resources/5.png" alt="">
-        </div>
-        <div class="logos">
-		<img src="assets/images/resources/1.png" alt="">
-		<img src="assets/images/resources/2.png" alt="">
-		<img src="assets/images/resources/3.png" alt="">
-		<img src="assets/images/resources/4.png" alt="">
-		<img src="assets/images/resources/5.png" alt="">
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-
-
+					<div class="row-fluid">
+						<div class="logos-container-2 "> 
+					<div class="container h-100 p-3">
+			<div class="row align-items-center h-100">
+			<div class="container rounded">
+				<div class="slider">
+				<div class="logos">
+				<img src="assets/images/resources/1.png" alt="">
+				<img src="assets/images/resources/2.png" alt="">
+				<img src="assets/images/resources/3.png" alt="">
+				<img src="assets/images/resources/4.png" alt="">
+				<img src="assets/images/resources/5.png" alt="">
+				</div>
+				<div class="logos">
+				<img src="assets/images/resources/1.png" alt="">
+				<img src="assets/images/resources/2.png" alt="">
+				<img src="assets/images/resources/3.png" alt="">
+				<img src="assets/images/resources/4.png" alt="">
+				<img src="assets/images/resources/5.png" alt="">
+				</div>
+				</div>
+			</div>
+			</div>
+			</div>
 		</section>
 		<!--Features One Start-->
 		<section class="features-one">
