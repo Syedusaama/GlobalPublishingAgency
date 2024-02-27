@@ -314,6 +314,9 @@
     /* border-radius: 10px; */
     text-align: center;
   }
+  .logos-cls {
+    width: 200px;
+  }
   
   .logos-container img {
     padding: 35px 50px;

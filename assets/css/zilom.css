@@ -245,7 +245,9 @@
     letter-spacing: 0.1em;
     z-index: 1;
   }
-  
+  .thm-btn a{
+    color: #fff;
+  }
   .thm-btn:after {
     position: absolute;
     content: "";
