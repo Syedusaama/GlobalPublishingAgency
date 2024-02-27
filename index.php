@@ -30,8 +30,20 @@
 		<section>
 			<div class="row-fluid">
 				<div class="logos-container-2"> 
-					<img src="assets/images/resources/logos.webp" alt=""> 
+					<!-- <img src="assets/images/resources/logos.webp" alt="">  -->
+					
+				</div>
+			</div>
+			<section class="testimonials-one clearfix">
+				<div class="container">
+					<div class="section-title text-center"> <span class="section-title__tagline">Our Testimonials</span>
+						<h2 class="section-title__title">What They Say?</h2> </div>
 					<div class="row">
+						<div class="col-xl-12">
+							<div class="testimonials-one__wrapper">
+								<div class="testimonials-one__pattern"><img src="assets/images/pattern/testimonials-one-left-pattern.png" alt="" /></div>
+								<div class="shape1"><img src="assets/images/shapes/thm-shape3.png" alt="" /></div>
+								<div class="row">
 									<div class="col-xl-12">
 										<div class="testimonials-three__carousel owl-carousel owl-theme owl-dot-type1">
 											<!--Start Single Testimonials One -->
@@ -93,7 +105,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</section>
 		</section>
 		<!--Features One Start-->
 		<section class="features-one">
