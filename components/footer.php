@@ -87,13 +87,13 @@
 	<!-- /.mobile-nav__overlay -->
 	<div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 		<div class="logo-box">
-			<a href="index.html" aria-label="logo image"><img src="assets/images/logo-white-v2.png" width="240" alt="" /></a>
+			<a href="/" aria-label="logo image"><img src="assets/images/logo-white-v2.png" width="240" alt="" /></a>
 		</div>
 		<!-- /.logo-box -->
 		<div class="mobile-nav__container"></div>
 		<!-- /.mobile-nav__container -->
 		<ul class="mobile-nav__contact list-unstyled">
-			<li> <i class="icon-phone-call"></i> <a href="mailto:#">info@golbalpublishingagency.com</a> </li>
+			<li> <i class="icon-phone-call"></i> <a href="mailto:info@globalpublishingagency.com">info@globalpublishingagency.com</a> </li>
 			<li> <i class="icon-letter"></i> <a href="tel:+1234567">+1234567</a> </li>
 		</ul>
 		<!-- /.mobile-nav__contact -->

@@ -40,8 +40,6 @@
 				<img src="assets/images/resources/3.png" alt="">
 				<img src="assets/images/resources/4.png" alt="">
 				<img src="assets/images/resources/5.png" alt="">
-				</div>
-				<div class="logos">
 				<img src="assets/images/resources/1.png" alt="">
 				<img src="assets/images/resources/2.png" alt="">
 				<img src="assets/images/resources/3.png" alt="">
