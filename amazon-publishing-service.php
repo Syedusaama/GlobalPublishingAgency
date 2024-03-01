@@ -28,7 +28,7 @@
         </div>
     </div>
 </section>
-
+<?php include "./components/logos.php"?>
 <section class="welcome-one mt-100">
     <div class="container">
         <div class="row">
