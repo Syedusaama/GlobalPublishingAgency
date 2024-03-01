@@ -29,6 +29,7 @@
 				</div>
 			</div>
 		</section>
+		<?php include "./components/logos.php"?>
 		<div class="fluid">
 			<div class="row">
 				<div class="review-body">
