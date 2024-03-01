@@ -27,6 +27,7 @@
 				</div>
 			</div>
 		</section>
+		<?php include "./components/logos.php"?>
 		<!--Start Contact Details One-->
 		<section class="contact-details-one">
 			<div class="container">
