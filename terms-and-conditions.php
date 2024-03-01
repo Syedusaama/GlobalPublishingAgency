@@ -20,6 +20,7 @@
 				</div>
 			</div>
 		</section>
+		<?php include "./components/logos.php"?>
 		<div class="mt-50 mb-100">
 			<div class="container">
 				<div class="row content-area-com">
